@@ -1,0 +1,68 @@
+Division:Division 1
+# Time: <time for matches, default 20:00>
+1:Birtley C|Birtley Snooker Club
+2:Pelaw Inn B|Pelaw Inn
+3:Birtley B|Birtley Snooker Club
+4:Pelaw Inn A|Pelaw Inn
+5:Mallard B|Mallard
+6:Corporation Club
+7:Sky Lounge A|Sky Lounge
+8:Sky Lounge B|Sky Lounge
+9:Mallard A|Mallard
+10:Eagle
+11:Birtley A|Birtley Snooker Club
+12:Brandling
+// 13:Plough A|Plough
+// 14:Gold Medal
+// 15:Top Bay Horse
+// 16:Plough B|Plough
+# Asdf
+
+Week1:02/09/21
+Week2:09/09/21
+Week3:16/09/21
+Week4:23/09/21
+Week5:30/09/21
+Week6:07/10/21
+Week7:14/10/21
+Week8:21/10/21
+Week9:28/10/21
+Week10:04/11/21
+Week11:11/11/21
+Week12:18/11/21
+Week13:25/11/21
+Week14:02/12/21
+Week15:09/12/21
+Week16:16/12/21
+Week17:06/01/22
+Week18:13/01/22
+Week19:20/01/22
+Week20:27/01/22
+Week21:03/02/22
+Week22:10/02/22
+Week23:17/02/22
+Week24:24/02/22
+Week25:03/03/22
+Week26:10/03/22
+Week27:17/03/22
+Week28:24/03/22
+Week29:31/03/22
+Week30:07/04/22
+Week31:14/04/22
+Week32:21/04/22
+Week33:28/04/22
+Week34:05/05/22
+Week35:12/05/22
+Week36:19/05/22
+Week37:26/05/22
+Week38:09/06/22
+Week39:16/06/22
+Week40:23/06/22
+Week41:30/06/22
+Week42:07/07/22
+Week43:14/07/22
+Week44:21/07/22
+Week45:28/07/22
+Week46:04/08/22
+Week47:11/08/22
+Week48:18/08/22
