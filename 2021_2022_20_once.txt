@@ -1,0 +1,43 @@
+Division:20-league
+# Time: <time for matches, default 20:00>
+1:Birtley A
+2:Birtley B
+3:Travellers Rest
+4:Top Bay Horse
+5:Corporation Club
+6:Saltwell Social Club
+7:Eagle
+8:Sky Lounge
+9:William IV
+10:Durham Ranger
+11:Plough A
+12:Plough B
+13:Plough C
+14:Plough D
+15:Pelaw Inn A
+16:Pelaw Inn B
+17:Mallard A
+18:Mallard B
+19:Brandling A
+20:Brandling B
+
+
+Week1:02/09/2021
+Week2:09/09/2021
+Week3:16/09/2021
+Week4:23/09/2021
+Week5:30/09/2021
+Week6:07/10/2021
+Week7:14/10/2021
+Week8:21/10/2021
+Week9:28/10/2021
+Week10:04/11/2021
+Week11:11/11/2021
+Week12:18/11/2021
+Week13:25/11/2021
+Week14:02/12/2021
+Week15:09/12/2021
+Week16:16/12/2021
+Week17:06/01/2022
+Week18:13/01/2022
+Week19:20/01/2022

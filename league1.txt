@@ -1,22 +1,15 @@
 Division:Division 1
 # Time: <time for matches, default 20:00>
-1:Birtley C|Birtley Snooker Club
-2:Pelaw Inn B|Pelaw Inn
-3:Birtley B|Birtley Snooker Club
-4:Pelaw Inn A|Pelaw Inn
-5:Mallard B|Mallard
+1:Birtley B
+2:Pelaw Inn B
+3:Travellers Inn
+4:Pelaw Inn A
+5:Mallard B
 6:Corporation Club
-7:Sky Lounge A|Sky Lounge
-8:Sky Lounge B|Sky Lounge
-9:Mallard A|Mallard
-10:Eagle
-//11:Birtley A|Birtley Snooker Club
-//12:Brandling
-// 13:Plough A|Plough
-// 14:Gold Medal
-// 15:Top Bay Horse
-// 16:Plough B|Plough
-# Asdf
+7:Sky Lounge
+8:Mallard A
+9:Eagle
+10:Birtley A
 
 Week1:02/09/21
 Week2:09/09/21
