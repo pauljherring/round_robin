@@ -14,6 +14,7 @@ const char* header= "Date dd/mm/yyyy,Time HH:MM,Division,Home Team,Away Team,Ven
 char division[PATH_MAX];
 char starttime[PATH_MAX] = "20:00";
 char teams[MAX_TEAMS][PATH_MAX];
+char shortcodes[MAX_TEAMS][PATH_MAX];
 char venues[MAX_TEAMS][PATH_MAX];
 int lastteam = 0;
 char weeks[MAX_WEEKS][PATH_MAX];
@@ -244,13 +245,21 @@ int readfile(const char* filename){
 		}else if (!strcasecmp(left, "time")){
 			strncpy(starttime, right, sizeof starttime);
 		}else if ( (teamnum = atoi(left)) >0 && (teamnum <= MAX_TEAMS) ){
-			char team[PATH_MAX], venue[PATH_MAX] = {0};
+			char team[PATH_MAX], venue[PATH_MAX] = {0}, *scode=0;
 			// printf("Trying [%s]\n", )
 			if (sscanf(right, "%[^|]|%[^\n]", team, venue) > 0){
 				if (teams[teamnum-1][0]){
 					fprintf(stderr, "Duplicate team number %d: %s/%s\n", teamnum, teams[teamnum-1], team);
 					exit(EXIT_FAILURE);
 				}
+				if ( (scode = strchr(team, '%')) ){
+					*scode++ = 0;
+					// printf("Got %s [%s]\n", team, scode);
+					strncpy(&shortcodes[teamnum-1][0], scode, sizeof shortcodes[0]);
+				}else{
+					// printf("Got %s [---]\n", team, scode);
+				}
+
 				strncpy(&teams[teamnum-1][0], team, sizeof teams[0]);
 				strncpy(&venues[teamnum-1][0], *venue?venue:team, sizeof venues[0]);
 				if (teamnum > lastteam){
@@ -265,7 +274,7 @@ int readfile(const char* filename){
 				}
 			}
 		}else{
-			printf("Ignoring line: %s", buf);
+			// printf("Ignoring line: %s", buf);
 		}
 	}
 	return 0;
@@ -282,18 +291,19 @@ int main(int argc, char** argv){
 	get_options(argc, argv);
 	readfile(config_file);
 
-
-	printf("Division - %s\n", division);
-	printf("Start time - %s\n", starttime);
-	printf("%d team: \n", lastteam);
-	for(i=0; i < lastteam; ++i){
-		printf("%d - %s(%s)\n", i+1, teams[i], venues[i]);
+	if (output_format == human){
+		printf("Division - %s\n", division);
+		printf("Start time - %s\n", starttime);
+		printf("%d team: \n", lastteam);
+		for(i=0; i < lastteam; ++i){
+			printf("%d - %s[%s](%s)\n", i+1, teams[i], shortcodes[i], venues[i]);
+		}
 	}
 
 	int success = 0;
 	for(i=0; round_robins[i].robins; i++){
 		if ((lastteam == round_robins[i].max_teams) || (lastteam == round_robins[i].max_teams-1)){
-			printf("lastteam:%d round_robins[i].max_teams:%d\n", lastteam, round_robins[i].max_teams);
+			// printf("lastteam:%d round_robins[i].max_teams:%d\n", lastteam, round_robins[i].max_teams);
 			while (lastteam < round_robins[i].max_teams){
 				lastteam++;
 				strncpy(&teams[lastteam-1][0], "Bye", sizeof teams[0]);
@@ -302,7 +312,7 @@ int main(int argc, char** argv){
 			success = 1;
 			break;
 		}else{
-			printf("%d failed againt %d\n", lastteam, round_robins[i].max_teams);
+			// printf("%d failed againt %d\n", lastteam, round_robins[i].max_teams);f
 		}
 	}
 	if (!success){
@@ -310,7 +320,10 @@ int main(int argc, char** argv){
 		fprintf(stderr, "round_robins[0].robins = %p\n", round_robins[0].robins);
 		exit(EXIT_FAILURE);
 	}
-	printf("Using matrix for %d teams\n", lastteam);
+
+	if (output_format == human){
+		printf("Using matrix for %d teams\n", lastteam);
+	}
 	matchcount = lastteam-1;
 
 	for(int league_week = 0; league_week < lastweek; league_week++){
@@ -340,42 +353,37 @@ int main(int argc, char** argv){
 					team2 = round_robin_20[team][league_week % matchcount];
 					break;
 				default:
-					fprintf(stderr, "Unknown lastteam: %d\n", lastteam);
+					// fprintf(stderr, "Unknown lastteam: %d\n", lastteam);
 					exit(EXIT_FAILURE);
 			}
 
 			if (robin%2 == 1){
 				team2 *= -1; // swap venue
 			}
-
-			// printf("Team1: %d, team2: %d\n", team1, team2);
+			
 			if (team2 > 0){
-				printf("%d, [%s] %s(%d) v %s(%d) @ %s\n", league_week+1, weeks[league_week], teams[team1-1], team1, teams[team2-1], team2, venues[team1-1]);
+				static int first = 1;
+				switch (output_format){
+					case none:
+					case human:
+						printf("%d, [%s] %s(%d) v %s(%d) @ %s\n", league_week+1, weeks[league_week], teams[team1-1], team1, teams[team2-1], team2, venues[team1-1]);
+						break;
+					case league_republic:
+						if (first){
+							// "Date dd/mm/yyyy,Time HH:MM,Division,Home Team,Away Team,Venue,Pitch,Home Score,Away Score";
+							first = 0;
+							printf("%s\n", header);
+						}
+						printf("%s,%s,,%s,%s,,,,\n",
+							weeks[league_week],
+							starttime,
+							shortcodes[team1-1],
+							shortcodes[team2-1]
+							);
+						break;
+				}
+
 			}
-
-			// if(team1 < team2){
-			//     home = team2 -1;
-			//     away = -team1 -1;
-			// }else{
-			//     home = team1 -1;
-			//     away = -team2 -1;
-			// }
-
-//             if (robin%2 == 1){
-//                 int temp = home;
-//                 home = away;
-//                 away = temp;
-//             }
-//             if (!strcasecmp(teams[home], "bye")){
-//                 int temp = home;
-//                 home = away;
-//                 away = temp;
-//             }
-
-// // const char* header= "Date dd/mm/yyyy,Time HH:MM,Division,Home Team,Away Team,Venue,Pitch,Home Score,Away Score";
-//             printf("%s,%s,%s,%s,%s,%s,-,-,-\n", weeks[league_week], starttime, division, teams[home], teams[away], venues[home]);
-//             printf("%d, [%s] %s(%d) v %s(%d) @ %s\n", league_week+1, weeks[league_week], teams[home], home+1, teams[away], away+1, venues[home]);
-			// team = lastteam; // TODO: remove
 		}
 	}
 }
