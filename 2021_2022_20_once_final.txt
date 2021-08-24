@@ -1,9 +1,9 @@
 Division:20-league
 # Time: <time for matches, default 20:00>
 1:Birtley A%BRTA
-2:Birtley B%BRTC
-3:Travellers Rest%TR
-4:Top Bay Horse%TBH
+2:Birtley B%BRTB
+3:Top Bay Horse%TBH
+4:Travellers Rest%TR
 5:Corporation Club%COR
 6:Saltwell Club%STL
 7:Eagle%EAG
