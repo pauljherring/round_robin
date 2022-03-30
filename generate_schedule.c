@@ -142,7 +142,12 @@ struct round_robins{
 };
 
 void help(){
-
+	printf("Usage: generate_schedule {[OPTIONS]} [FILE]\n");
+	printf("Generate one, or more, round-robin schedules for a set of teams\n");
+	printf("\n");
+	printf("  -m, --human           output in human-readable format\n");
+	printf("  -l, --league_republic output in csv format for LR\n");
+	printf("  -h, --help            this help\n");
 }
 
 enum output_format{
@@ -205,7 +210,7 @@ int get_options(int argc, char** argv){
 			case 'm': output_format = change_format(human); break;
 			case 'l': output_format = change_format(league_republic); break;
 			default:
-				// meh.
+				help();
 				break;
 		}
 
@@ -396,5 +401,11 @@ Time: <time for matches, default 20:00>
 2: <second team name>{|<venue name>}
 3: <...>
 ...
+
+Week1:dd/mm/yyy
+Week2:dd/mm/yyy
+Week3:dd/mm/yyy
+...
+Week19:dd/mm/yyy
 
 */

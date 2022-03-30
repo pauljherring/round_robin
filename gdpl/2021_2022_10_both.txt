@@ -1,0 +1,197 @@
+17/02/2022	Birtley A v Birtley B
+17/02/2022	Brandling B v William IV
+17/02/2022	Mallard B v Corporation Club
+17/02/2022	Pelaw Inn v Plough C
+17/02/2022	Plough A v Plough B
+17/02/2022	Plough D v Travellers Rest
+17/02/2022	Saltwell Club v Durham Ranger
+17/02/2022	Sky Lounge v Brandling A
+17/02/2022	Sutherlands v Eagle
+17/02/2022	Top Bay Horse v Mallard A
+
+24/02/2022	Birtley B v Sky Lounge
+24/02/2022	Brandling A v Pelaw Inn
+24/02/2022	Corporation Club v Birtley A
+24/02/2022	Durham Ranger v Brandling B
+24/02/2022	Eagle v Saltwell Club
+24/02/2022	Mallard A v Sutherlands
+24/02/2022	Plough B v Top Bay Horse
+24/02/2022	Plough C v Plough D
+24/02/2022	Travellers Rest v Mallard B
+24/02/2022	William IV v Plough A
+
+10/03/2022	Birtley A v Sky Lounge
+10/03/2022	Brandling B v Eagle
+10/03/2022	Corporation Club v Travellers Rest
+10/03/2022	Mallard B v Plough C
+10/03/2022	Pelaw Inn v Birtley B
+10/03/2022	Plough A v Top Bay Horse
+10/03/2022	Plough D v Brandling A
+10/03/2022	Saltwell Club v Mallard A
+10/03/2022	Sutherlands v Plough B
+10/03/2022	William IV v Durham Ranger
+
+17/03/2022	Birtley B v Plough D
+17/03/2022	Brandling A v Mallard B
+17/03/2022	Durham Ranger v Plough A
+17/03/2022	Eagle v William IV
+17/03/2022	Mallard A v Brandling B
+17/03/2022	Plough B v Saltwell Club
+17/03/2022	Plough C v Corporation Club
+17/03/2022	Sky Lounge v Pelaw Inn
+17/03/2022	Top Bay Horse v Sutherlands
+17/03/2022	Travellers Rest v Birtley A
+
+31/03/2022	Birtley A v Pelaw Inn
+31/03/2022	Brandling B v Plough B
+31/03/2022	Corporation Club v Brandling A
+31/03/2022	Durham Ranger v Eagle
+31/03/2022	Mallard B v Birtley B
+31/03/2022	Plough A v Sutherlands
+31/03/2022	Plough D v Sky Lounge
+31/03/2022	Saltwell Club v Top Bay Horse
+31/03/2022	Travellers Rest v Plough C
+31/03/2022	William IV v Mallard A
+
+07/04/2022	Birtley B v Corporation Club
+07/04/2022	Brandling A v Travellers Rest
+07/04/2022	Eagle v Plough A
+07/04/2022	Mallard A v Durham Ranger
+07/04/2022	Pelaw Inn v Plough D
+07/04/2022	Plough B v William IV
+07/04/2022	Plough C v Birtley A
+07/04/2022	Sky Lounge v Mallard B
+07/04/2022	Sutherlands v Saltwell Club
+07/04/2022	Top Bay Horse v Brandling B
+
+21/04/2022	Birtley A v Plough D
+21/04/2022	Brandling B v Sutherlands
+21/04/2022	Corporation Club v Sky Lounge
+21/04/2022	Durham Ranger v Plough B
+21/04/2022	Eagle v Mallard A
+21/04/2022	Mallard B v Pelaw Inn
+21/04/2022	Plough A v Saltwell Club
+21/04/2022	Plough C v Brandling A
+21/04/2022	Travellers Rest v Birtley B
+21/04/2022	William IV v Top Bay Horse
+
+28/04/2022	Birtley B v Plough C
+28/04/2022	Brandling A v Birtley A
+28/04/2022	Mallard A v Plough A
+28/04/2022	Pelaw Inn v Corporation Club
+28/04/2022	Plough B v Eagle
+28/04/2022	Plough D v Mallard B
+28/04/2022	Saltwell Club v Brandling B
+28/04/2022	Sky Lounge v Travellers Rest
+28/04/2022	Sutherlands v William IV
+28/04/2022	Top Bay Horse v Durham Ranger
+
+05/05/2022	Birtley A v Mallard B
+05/05/2022	Brandling A v Birtley B
+05/05/2022	Corporation Club v Plough D
+05/05/2022	Durham Ranger v Sutherlands
+05/05/2022	Eagle v Top Bay Horse
+05/05/2022	Mallard A v Plough B
+05/05/2022	Plough A v Brandling B
+05/05/2022	Plough C v Sky Lounge
+05/05/2022	Travellers Rest v Pelaw Inn
+05/05/2022	William IV v Saltwell Club
+
+19/05/2022	Birtley B v Birtley A
+19/05/2022	Brandling A v Sky Lounge
+19/05/2022	Corporation Club v Mallard B
+19/05/2022	Durham Ranger v Saltwell Club
+19/05/2022	Eagle v Sutherlands
+19/05/2022	Mallard A v Top Bay Horse
+19/05/2022	Plough B v Plough A
+19/05/2022	Plough C v Pelaw Inn
+19/05/2022	Travellers Rest v Plough D
+19/05/2022	William IV v Brandling B
+
+26/05/2022	Birtley A v Corporation Club
+26/05/2022	Brandling B v Durham Ranger
+26/05/2022	Mallard B v Travellers Rest
+26/05/2022	Pelaw Inn v Brandling A
+26/05/2022	Plough A v William IV
+26/05/2022	Plough D v Plough C
+26/05/2022	Saltwell Club v Eagle
+26/05/2022	Sky Lounge v Birtley B
+26/05/2022	Sutherlands v Mallard A
+26/05/2022	Top Bay Horse v Plough B
+
+09/06/2022	Birtley B v Pelaw Inn
+09/06/2022	Brandling A v Plough D
+09/06/2022	Durham Ranger v William IV
+09/06/2022	Eagle v Brandling B
+09/06/2022	Mallard A v Saltwell Club
+09/06/2022	Plough B v Sutherlands
+09/06/2022	Plough C v Mallard B
+09/06/2022	Sky Lounge v Birtley A
+09/06/2022	Top Bay Horse v Plough A
+09/06/2022	Travellers Rest v Corporation Club
+
+16/06/2022	Birtley A v Travellers Rest
+16/06/2022	Brandling B v Mallard A
+16/06/2022	Corporation Club v Plough C
+16/06/2022	Mallard B v Brandling A
+16/06/2022	Pelaw Inn v Sky Lounge
+16/06/2022	Plough A v Durham Ranger
+16/06/2022	Plough D v Birtley B
+16/06/2022	Saltwell Club v Plough B
+16/06/2022	Sutherlands v Top Bay Horse
+16/06/2022	William IV v Eagle
+
+23/06/2022	Birtley B v Mallard B
+23/06/2022	Brandling A v Corporation Club
+23/06/2022	Eagle v Durham Ranger
+23/06/2022	Mallard A v William IV
+23/06/2022	Pelaw Inn v Birtley A
+23/06/2022	Plough B v Brandling B
+23/06/2022	Plough C v Travellers Rest
+23/06/2022	Sky Lounge v Plough D
+23/06/2022	Sutherlands v Plough A
+23/06/2022	Top Bay Horse v Saltwell Club
+
+30/06/2022	Birtley A v Plough C
+30/06/2022	Brandling B v Top Bay Horse
+30/06/2022	Corporation Club v Birtley B
+30/06/2022	Durham Ranger v Mallard A
+30/06/2022	Mallard B v Sky Lounge
+30/06/2022	Plough A v Eagle
+30/06/2022	Plough D v Pelaw Inn
+30/06/2022	Saltwell Club v Sutherlands
+30/06/2022	Travellers Rest v Brandling A
+30/06/2022	William IV v Plough B
+
+07/07/2022	Birtley B v Travellers Rest
+07/07/2022	Brandling A v Plough C
+07/07/2022	Mallard A v Eagle
+07/07/2022	Pelaw Inn v Mallard B
+07/07/2022	Plough B v Durham Ranger
+07/07/2022	Plough D v Birtley A
+07/07/2022	Saltwell Club v Plough A
+07/07/2022	Sky Lounge v Corporation Club
+07/07/2022	Sutherlands v Brandling B
+07/07/2022	Top Bay Horse v William IV
+
+14/07/2022	Birtley A v Brandling A
+14/07/2022	Brandling B v Saltwell Club
+14/07/2022	Corporation Club v Pelaw Inn
+14/07/2022	Durham Ranger v Top Bay Horse
+14/07/2022	Eagle v Plough B
+14/07/2022	Mallard B v Plough D
+14/07/2022	Plough A v Mallard A
+14/07/2022	Plough C v Birtley B
+14/07/2022	Travellers Rest v Sky Lounge
+14/07/2022	William IV v Sutherlands
+
+21/07/2022	Birtley B v Brandling A
+21/07/2022	Brandling B v Plough A
+21/07/2022	Mallard B v Birtley A
+21/07/2022	Pelaw Inn v Travellers Rest
+21/07/2022	Plough B v Mallard A
+21/07/2022	Plough D v Corporation Club
+21/07/2022	Saltwell Club v William IV
+21/07/2022	Sky Lounge v Plough C
+21/07/2022	Sutherlands v Durham Ranger
+21/07/2022	Top Bay Horse v Eagle

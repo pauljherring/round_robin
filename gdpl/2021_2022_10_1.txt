@@ -1,0 +1,46 @@
+Division:10-league-1
+1:Birtley A%BRTA
+2:Birtley B%BRTB
+7:Plough C%PLOC
+8:Travellers Rest%TR
+9:Brandling A%BRNA
+10:Mallard B%MALB
+3:Corporation Club%COR
+4:Sky Lounge%SKY
+5:Pelaw Inn A%PEL
+6:Eagle%EAG
+
+
+#Division:10-league-2
+#1:Plough A%PLOA
+#2:Plough B%PLOB
+#7:Saltwell Club%STL
+#8:Plough D%PLOD
+#9:Mallard A%MALA
+#10:Brandling B%BRNB
+#3:William IV%WIV
+#4:Top Bay Horse%TBH
+#5:Durham Ranger%RAN
+#6:Sutherlands%FID
+
+
+
+
+Week1:17/02/2022
+Week2:24/02/2022
+Week3:10/03/2022
+Week4:17/03/2022
+Week5:31/03/2022
+Week6:07/04/2022
+Week7:21/04/2022
+Week8:28/04/2022
+Week9:05/05/2022
+Week10:19/05/2022
+Week11:26/05/2022
+Week12:09/06/2022
+Week13:16/06/2022
+Week14:23/06/2022
+Week15:30/06/2022
+Week16:07/07/2022
+Week17:14/07/2022
+Week18:21/07/2022
