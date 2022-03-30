@@ -119,4 +119,19 @@ Here `<short code>` is only *mandatory* if using this to produce a csv for Leagu
 
 !['Short Code' on LR](doc/short_code.png?raw=true "Short Code")
 
-An example input file can be found at [gdpl/2021_2022_20_once.txt](gdpl/2021_2022_20_once.txt)
+An example input file can be found at [gdpl/2021_2022_20_once.txt](gdpl/2021_2022_20_once.txt), a snipped of which is presented here:
+```
+Division:20-league
+# Time: <time for matches, default 20:00>
+1:Birtley A%BRTA
+2:Birtley B%BRTB
+3:Top Bay Horse%TBH
+<snip>
+
+
+Week1:02/09/2021
+Week2:09/09/2021
+<snip>
+Week18:27/01/2022
+Week19:03/02/2022
+```
