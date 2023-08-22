@@ -23,12 +23,14 @@ This produces `generate_schedule`
 ## Use
 
 `generate_schedule` can produce output in two formats:
+
 - "Human" form - produces a long-form output, names the teams in full, with fixture numbers, dates, home and away team and venue:
-```
+
+```text
 $ ./generate_schedule 2021_2022_20_once_final.txt `
 Division - 20-league
 Start time - 20:00
-20 team: 
+20 team:
 1 - Birtley A[BRTA](Birtley A)
 2 - Birtley B[BRTB](Birtley B)
 3 - Top Bay Horse[TBH](Top Bay Horse)
@@ -47,8 +49,10 @@ Using matrix for 20 teams
 19, [03/02/2022] Mallard A(17) v Travellers Rest(4) @ Mallard A
 19, [03/02/2022] Brandling A(19) v Birtley B(2) @ Brandling A
 ```
+
 - "League Republic" form - suitable for creating a `.csv` file that can be uploaded to [League Republic](https://www.leaguerepublic.com) if you use that for admin of a league, and don't want to rely on their own scheduling algorithms (the main reason why this program even exists.)
-```
+
+```text
 $ ./generate_schedule 2021_2022_20_once_final.txt -l | tee output.csv
 Date dd/mm/yyyy,Time HH:MM,Division,Home Team,Away Team,Venue,Pitch,Home Score,Away Score
 02/09/2021,20:00,,BRTA,BRTB,,,,
@@ -66,14 +70,16 @@ Date dd/mm/yyyy,Time HH:MM,Division,Home Team,Away Team,Venue,Pitch,Home Score,A
 ```
 
 ### Options
-```
+
+```bash
   -m, --human           output in human-readable format
   -l, --league_republic output in csv format for LR
   -h, --help            this help
 ```
 
 # Input file format
-```
+
+```text
 # Header
 
 # Description of the division. Not currently used in anything but the human readable output
@@ -83,7 +89,7 @@ Division: <name of division>
 Time: <time for matches, default 20:00>
 
 # List of teams
-# The number on the left, before the colon, must be unique in this file, but numbers may be 
+# The number on the left, before the colon, must be unique in this file, but numbers may be
 # omitted.
 # <team name> is a human readable name, output in that mode
 # <venue name> is the `Short Code` for the team in League Republic
@@ -92,13 +98,13 @@ Time: <time for matches, default 20:00>
 3: <...>
 ...
 
-# When fixtures happen. Lines must start with `week` (case insensitive) followed by a 
+# When fixtures happen. Lines must start with `week` (case insensitive) followed by a
 # monotonically incrementing number.
 #
 # If you wish two sets of fixtures on the same date, use that same date on two consecutive
 # 'weeks'
 #
-# Hopefully obviously, if you want calendar weeks off, simply omit them and use WeekN+1 
+# Hopefully obviously, if you want calendar weeks off, simply omit them and use WeekN+1
 # for the next calendar match. For (real) example, 21/22 Christmas with our matches on Thursdays:
 # Week14:09/12/2021
 # Week15:16/12/2021
@@ -119,8 +125,9 @@ Here `<short code>` is only *mandatory* if using this to produce a csv for Leagu
 
 !['Short Code' on LR](doc/short_code.png?raw=true "Short Code")
 
-An example input file can be found at [gdpl/2021_2022_20_once.txt](gdpl/2021_2022_20_once.txt), a snipped of which is presented here:
-```
+An example input file can be found at [gdpl/2021_2022_20_once.txt](gdpl/2021_2022_20_once.txt), a snippet of which is presented here:
+
+```text
 Division:20-league
 # Time: <time for matches, default 20:00>
 1:Birtley A%BRTA

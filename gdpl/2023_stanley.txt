@@ -1,0 +1,23 @@
+Division:
+# Time: <time for matches, default 20:00>
+1:East st A%ESA
+2:East st B%ESB
+3:East st C%ESC
+4:Central A%CEA
+5:Central B%CEB
+6:Empire A%EMA
+7:Empire B%EMB
+8:South moor Ex A%SMA
+9:South moor Ex B%SMB
+10:The Demi%DEM
+
+
+Week1:01/07/2023
+Week2:02/07/2023
+Week3:03/07/2023
+Week4:04/07/2023
+Week5:05/07/2023
+Week6:06/07/2023
+Week7:07/07/2023
+Week8:08/07/2023
+Week9:09/07/2023

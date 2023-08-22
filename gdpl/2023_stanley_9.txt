@@ -1,0 +1,53 @@
+1,  East st A v East st B
+1,  Central A v South moor Ex B
+1,  Empire A v Empire B
+1,  South moor Ex A v Central B
+1,  The Demi v East st C
+
+2,  East st B v Central A
+2,  East st C v East st A
+2,  Central B v The Demi
+2,  Empire B v South moor Ex A
+2,  South moor Ex B v Empire A
+
+3,  East st A v Central A
+3,  East st C v Central B
+3,  Empire A v East st B
+3,  South moor Ex A v South moor Ex B
+3,  The Demi v Empire B
+
+4,  East st B v South moor Ex A
+4,  Central A v Empire A
+4,  Central B v East st A
+4,  Empire B v East st C
+4,  South moor Ex B v The Demi
+
+5,  East st A v Empire A
+5,  East st C v South moor Ex B
+5,  Central B v Empire B
+5,  South moor Ex A v Central A
+5,  The Demi v East st B
+
+6,  East st B v East st C
+6,  Central A v The Demi
+6,  Empire A v South moor Ex A
+6,  Empire B v East st A
+6,  South moor Ex B v Central B
+
+7,  East st A v South moor Ex A
+7,  East st C v Central A
+7,  Central B v East st B
+7,  Empire B v South moor Ex B
+7,  The Demi v Empire A
+
+8,  East st B v Empire B
+8,  Central A v Central B
+8,  Empire A v East st C
+8,  South moor Ex A v The Demi
+8,  South moor Ex B v East st A
+
+9,  East st A v The Demi
+9,  East st C v South moor Ex A
+9,  Central B v Empire A
+9,  Empire B v Central A
+9,  South moor Ex B v East st B

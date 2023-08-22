@@ -1,0 +1,65 @@
+Division:D1
+# Time: <time for matches, default 20:00>
+1:Birtley A%BRTA
+2:Birtley B%BRTB
+3:Brandling A%BRNA
+4:Eagle%EAG
+5:Corporation Club%COR
+6:Sky Lounge%SKY
+7:Travellers Rest A%TR
+8:Travellers Rest B%PLOC
+9:Plough B%PLOB
+10:Plough D%PLOD
+11:Pelaw Inn%PEL
+12:Mallard B%MALB
+
+#Division:D2
+#1:Top Bay Horse A%TBH
+#2:Top Bay Horse B%FID
+#3:Nag's Head%NGH
+#4:Brandling B%BRNB
+#5:Azure Blue%AZB
+#6:Durham Ranger%RAN
+#7:Saltwell Club%STL
+#8:William IV%WIV
+#9:Plough C%PLOE
+#10:Plough A%PLOA
+#11:Mallard A%MALA
+
+
+
+
+
+Week1:08/09/2022
+Week2:15/09/2022
+Week3:22/09/2022
+Week4:29/09/2022
+Week5:06/10/2022
+Week6:13/10/2022
+Week7:20/10/2022
+Week8:27/10/2022
+Week9:10/11/2022
+Week10:17/11/2022
+Week11:24/11/2022
+Week12:08/12/2022
+Week13:15/12/2022
+Week14:05/01/2023
+Week15:12/01/2023
+Week16:26/01/2023
+Week17:02/02/2023
+Week18:09/02/2023
+Week19:23/02/2023
+Week20:02/03/2023
+Week21:16/03/2023
+Week22:30/03/2023
+Week23:13/04/2023
+Week24:20/04/2023
+Week25:04/05/2023
+Week26:11/05/2023
+Week27:25/05/2023
+Week28:01/06/2023
+Week29:15/06/2023
+Week30:22/06/2023
+Week31:06/07/2023
+Week32:13/07/2023
+Week33:20/07/2023

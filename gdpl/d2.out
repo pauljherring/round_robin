@@ -1,0 +1,213 @@
+Division - D2
+Start time - 20:00
+11 team: 
+1 - Top Bay Horse A[TBH](Top Bay Horse A)
+2 - Top Bay Horse B[FID](Top Bay Horse B)
+3 - Nag's Head[NGH](Nag's Head)
+4 - Brandling B[BRNB](Brandling B)
+5 - Azure Blue[AZB](Azure Blue)
+6 - Durham Ranger[RAN](Durham Ranger)
+7 - Saltwell Club[STL](Saltwell Club)
+8 - William IV[WIV](William IV)
+9 - Plough C[PLOE](Plough C)
+10 - Plough A[PLOA](Plough A)
+11 - Mallard A[MALA](Mallard A)
+Using matrix for 12 teams
+1, [08/09/22] Top Bay Horse A(1) v Top Bay Horse B(2) @ Top Bay Horse A
+1, [08/09/22] Brandling B(4) v Mallard A(11) @ Brandling B
+1, [08/09/22] Durham Ranger(6) v Plough C(9) @ Durham Ranger
+1, [08/09/22] William IV(8) v Saltwell Club(7) @ William IV
+1, [08/09/22] Plough A(10) v Azure Blue(5) @ Plough A
+1, [08/09/22] Bye(12) v Nag's Head(3) @ Bye
+2, [15/09/22] Top Bay Horse B(2) v Brandling B(4) @ Top Bay Horse B
+2, [15/09/22] Nag's Head(3) v Top Bay Horse A(1) @ Nag's Head
+2, [15/09/22] Azure Blue(5) v Bye(12) @ Azure Blue
+2, [15/09/22] Saltwell Club(7) v Plough A(10) @ Saltwell Club
+2, [15/09/22] Plough C(9) v William IV(8) @ Plough C
+2, [15/09/22] Mallard A(11) v Durham Ranger(6) @ Mallard A
+3, [22/09/22] Top Bay Horse A(1) v Brandling B(4) @ Top Bay Horse A
+3, [22/09/22] Nag's Head(3) v Azure Blue(5) @ Nag's Head
+3, [22/09/22] Durham Ranger(6) v Top Bay Horse B(2) @ Durham Ranger
+3, [22/09/22] William IV(8) v Mallard A(11) @ William IV
+3, [22/09/22] Plough A(10) v Plough C(9) @ Plough A
+3, [22/09/22] Bye(12) v Saltwell Club(7) @ Bye
+4, [29/09/22] Top Bay Horse B(2) v William IV(8) @ Top Bay Horse B
+4, [29/09/22] Brandling B(4) v Durham Ranger(6) @ Brandling B
+4, [29/09/22] Azure Blue(5) v Top Bay Horse A(1) @ Azure Blue
+4, [29/09/22] Saltwell Club(7) v Nag's Head(3) @ Saltwell Club
+4, [29/09/22] Plough C(9) v Bye(12) @ Plough C
+4, [29/09/22] Mallard A(11) v Plough A(10) @ Mallard A
+5, [06/10/22] Top Bay Horse A(1) v Durham Ranger(6) @ Top Bay Horse A
+5, [06/10/22] Nag's Head(3) v Plough C(9) @ Nag's Head
+5, [06/10/22] Azure Blue(5) v Saltwell Club(7) @ Azure Blue
+5, [06/10/22] William IV(8) v Brandling B(4) @ William IV
+5, [06/10/22] Plough A(10) v Top Bay Horse B(2) @ Plough A
+5, [06/10/22] Bye(12) v Mallard A(11) @ Bye
+6, [13/10/22] Top Bay Horse B(2) v Bye(12) @ Top Bay Horse B
+6, [13/10/22] Brandling B(4) v Plough A(10) @ Brandling B
+6, [13/10/22] Durham Ranger(6) v William IV(8) @ Durham Ranger
+6, [13/10/22] Saltwell Club(7) v Top Bay Horse A(1) @ Saltwell Club
+6, [13/10/22] Plough C(9) v Azure Blue(5) @ Plough C
+6, [13/10/22] Mallard A(11) v Nag's Head(3) @ Mallard A
+7, [20/10/22] Top Bay Horse A(1) v William IV(8) @ Top Bay Horse A
+7, [20/10/22] Nag's Head(3) v Top Bay Horse B(2) @ Nag's Head
+7, [20/10/22] Azure Blue(5) v Mallard A(11) @ Azure Blue
+7, [20/10/22] Saltwell Club(7) v Plough C(9) @ Saltwell Club
+7, [20/10/22] Plough A(10) v Durham Ranger(6) @ Plough A
+7, [20/10/22] Bye(12) v Brandling B(4) @ Bye
+8, [27/10/22] Top Bay Horse B(2) v Azure Blue(5) @ Top Bay Horse B
+8, [27/10/22] Brandling B(4) v Nag's Head(3) @ Brandling B
+8, [27/10/22] Durham Ranger(6) v Bye(12) @ Durham Ranger
+8, [27/10/22] William IV(8) v Plough A(10) @ William IV
+8, [27/10/22] Plough C(9) v Top Bay Horse A(1) @ Plough C
+8, [27/10/22] Mallard A(11) v Saltwell Club(7) @ Mallard A
+9, [10/11/22] Top Bay Horse A(1) v Plough A(10) @ Top Bay Horse A
+9, [10/11/22] Nag's Head(3) v Durham Ranger(6) @ Nag's Head
+9, [10/11/22] Azure Blue(5) v Brandling B(4) @ Azure Blue
+9, [10/11/22] Saltwell Club(7) v Top Bay Horse B(2) @ Saltwell Club
+9, [10/11/22] Plough C(9) v Mallard A(11) @ Plough C
+9, [10/11/22] Bye(12) v William IV(8) @ Bye
+10, [17/11/22] Top Bay Horse B(2) v Plough C(9) @ Top Bay Horse B
+10, [17/11/22] Brandling B(4) v Saltwell Club(7) @ Brandling B
+10, [17/11/22] Durham Ranger(6) v Azure Blue(5) @ Durham Ranger
+10, [17/11/22] William IV(8) v Nag's Head(3) @ William IV
+10, [17/11/22] Plough A(10) v Bye(12) @ Plough A
+10, [17/11/22] Mallard A(11) v Top Bay Horse A(1) @ Mallard A
+11, [24/11/22] Top Bay Horse A(1) v Bye(12) @ Top Bay Horse A
+11, [24/11/22] Nag's Head(3) v Plough A(10) @ Nag's Head
+11, [24/11/22] Azure Blue(5) v William IV(8) @ Azure Blue
+11, [24/11/22] Saltwell Club(7) v Durham Ranger(6) @ Saltwell Club
+11, [24/11/22] Plough C(9) v Brandling B(4) @ Plough C
+11, [24/11/22] Mallard A(11) v Top Bay Horse B(2) @ Mallard A
+12, [08/12/22] Top Bay Horse B(2) v Top Bay Horse A(1) @ Top Bay Horse B
+12, [08/12/22] Nag's Head(3) v Bye(12) @ Nag's Head
+12, [08/12/22] Azure Blue(5) v Plough A(10) @ Azure Blue
+12, [08/12/22] Saltwell Club(7) v William IV(8) @ Saltwell Club
+12, [08/12/22] Plough C(9) v Durham Ranger(6) @ Plough C
+12, [08/12/22] Mallard A(11) v Brandling B(4) @ Mallard A
+13, [15/12/22] Top Bay Horse A(1) v Nag's Head(3) @ Top Bay Horse A
+13, [15/12/22] Brandling B(4) v Top Bay Horse B(2) @ Brandling B
+13, [15/12/22] Durham Ranger(6) v Mallard A(11) @ Durham Ranger
+13, [15/12/22] William IV(8) v Plough C(9) @ William IV
+13, [15/12/22] Plough A(10) v Saltwell Club(7) @ Plough A
+13, [15/12/22] Bye(12) v Azure Blue(5) @ Bye
+14, [05/01/23] Top Bay Horse B(2) v Durham Ranger(6) @ Top Bay Horse B
+14, [05/01/23] Brandling B(4) v Top Bay Horse A(1) @ Brandling B
+14, [05/01/23] Azure Blue(5) v Nag's Head(3) @ Azure Blue
+14, [05/01/23] Saltwell Club(7) v Bye(12) @ Saltwell Club
+14, [05/01/23] Plough C(9) v Plough A(10) @ Plough C
+14, [05/01/23] Mallard A(11) v William IV(8) @ Mallard A
+15, [12/01/23] Top Bay Horse A(1) v Azure Blue(5) @ Top Bay Horse A
+15, [12/01/23] Nag's Head(3) v Saltwell Club(7) @ Nag's Head
+15, [12/01/23] Durham Ranger(6) v Brandling B(4) @ Durham Ranger
+15, [12/01/23] William IV(8) v Top Bay Horse B(2) @ William IV
+15, [12/01/23] Plough A(10) v Mallard A(11) @ Plough A
+15, [12/01/23] Bye(12) v Plough C(9) @ Bye
+16, [26/01/23] Top Bay Horse B(2) v Plough A(10) @ Top Bay Horse B
+16, [26/01/23] Brandling B(4) v William IV(8) @ Brandling B
+16, [26/01/23] Durham Ranger(6) v Top Bay Horse A(1) @ Durham Ranger
+16, [26/01/23] Saltwell Club(7) v Azure Blue(5) @ Saltwell Club
+16, [26/01/23] Plough C(9) v Nag's Head(3) @ Plough C
+16, [26/01/23] Mallard A(11) v Bye(12) @ Mallard A
+17, [02/02/23] Top Bay Horse A(1) v Saltwell Club(7) @ Top Bay Horse A
+17, [02/02/23] Nag's Head(3) v Mallard A(11) @ Nag's Head
+17, [02/02/23] Azure Blue(5) v Plough C(9) @ Azure Blue
+17, [02/02/23] William IV(8) v Durham Ranger(6) @ William IV
+17, [02/02/23] Plough A(10) v Brandling B(4) @ Plough A
+17, [02/02/23] Bye(12) v Top Bay Horse B(2) @ Bye
+18, [09/02/23] Top Bay Horse B(2) v Nag's Head(3) @ Top Bay Horse B
+18, [09/02/23] Brandling B(4) v Bye(12) @ Brandling B
+18, [09/02/23] Durham Ranger(6) v Plough A(10) @ Durham Ranger
+18, [09/02/23] William IV(8) v Top Bay Horse A(1) @ William IV
+18, [09/02/23] Plough C(9) v Saltwell Club(7) @ Plough C
+18, [09/02/23] Mallard A(11) v Azure Blue(5) @ Mallard A
+19, [23/02/23] Top Bay Horse A(1) v Plough C(9) @ Top Bay Horse A
+19, [23/02/23] Nag's Head(3) v Brandling B(4) @ Nag's Head
+19, [23/02/23] Azure Blue(5) v Top Bay Horse B(2) @ Azure Blue
+19, [23/02/23] Saltwell Club(7) v Mallard A(11) @ Saltwell Club
+19, [23/02/23] Plough A(10) v William IV(8) @ Plough A
+19, [23/02/23] Bye(12) v Durham Ranger(6) @ Bye
+20, [02/03/23] Top Bay Horse B(2) v Saltwell Club(7) @ Top Bay Horse B
+20, [02/03/23] Brandling B(4) v Azure Blue(5) @ Brandling B
+20, [02/03/23] Durham Ranger(6) v Nag's Head(3) @ Durham Ranger
+20, [02/03/23] William IV(8) v Bye(12) @ William IV
+20, [02/03/23] Plough A(10) v Top Bay Horse A(1) @ Plough A
+20, [02/03/23] Mallard A(11) v Plough C(9) @ Mallard A
+21, [16/03/23] Top Bay Horse A(1) v Mallard A(11) @ Top Bay Horse A
+21, [16/03/23] Nag's Head(3) v William IV(8) @ Nag's Head
+21, [16/03/23] Azure Blue(5) v Durham Ranger(6) @ Azure Blue
+21, [16/03/23] Saltwell Club(7) v Brandling B(4) @ Saltwell Club
+21, [16/03/23] Plough C(9) v Top Bay Horse B(2) @ Plough C
+21, [16/03/23] Bye(12) v Plough A(10) @ Bye
+22, [30/03/23] Top Bay Horse B(2) v Mallard A(11) @ Top Bay Horse B
+22, [30/03/23] Brandling B(4) v Plough C(9) @ Brandling B
+22, [30/03/23] Durham Ranger(6) v Saltwell Club(7) @ Durham Ranger
+22, [30/03/23] William IV(8) v Azure Blue(5) @ William IV
+22, [30/03/23] Plough A(10) v Nag's Head(3) @ Plough A
+22, [30/03/23] Bye(12) v Top Bay Horse A(1) @ Bye
+23, [13/04/23] Top Bay Horse A(1) v Top Bay Horse B(2) @ Top Bay Horse A
+23, [13/04/23] Brandling B(4) v Mallard A(11) @ Brandling B
+23, [13/04/23] Durham Ranger(6) v Plough C(9) @ Durham Ranger
+23, [13/04/23] William IV(8) v Saltwell Club(7) @ William IV
+23, [13/04/23] Plough A(10) v Azure Blue(5) @ Plough A
+23, [13/04/23] Bye(12) v Nag's Head(3) @ Bye
+24, [20/04/23] Top Bay Horse B(2) v Brandling B(4) @ Top Bay Horse B
+24, [20/04/23] Nag's Head(3) v Top Bay Horse A(1) @ Nag's Head
+24, [20/04/23] Azure Blue(5) v Bye(12) @ Azure Blue
+24, [20/04/23] Saltwell Club(7) v Plough A(10) @ Saltwell Club
+24, [20/04/23] Plough C(9) v William IV(8) @ Plough C
+24, [20/04/23] Mallard A(11) v Durham Ranger(6) @ Mallard A
+25, [04/05/23] Top Bay Horse A(1) v Brandling B(4) @ Top Bay Horse A
+25, [04/05/23] Nag's Head(3) v Azure Blue(5) @ Nag's Head
+25, [04/05/23] Durham Ranger(6) v Top Bay Horse B(2) @ Durham Ranger
+25, [04/05/23] William IV(8) v Mallard A(11) @ William IV
+25, [04/05/23] Plough A(10) v Plough C(9) @ Plough A
+25, [04/05/23] Bye(12) v Saltwell Club(7) @ Bye
+26, [11/05/23] Top Bay Horse B(2) v William IV(8) @ Top Bay Horse B
+26, [11/05/23] Brandling B(4) v Durham Ranger(6) @ Brandling B
+26, [11/05/23] Azure Blue(5) v Top Bay Horse A(1) @ Azure Blue
+26, [11/05/23] Saltwell Club(7) v Nag's Head(3) @ Saltwell Club
+26, [11/05/23] Plough C(9) v Bye(12) @ Plough C
+26, [11/05/23] Mallard A(11) v Plough A(10) @ Mallard A
+27, [25/05/23] Top Bay Horse A(1) v Durham Ranger(6) @ Top Bay Horse A
+27, [25/05/23] Nag's Head(3) v Plough C(9) @ Nag's Head
+27, [25/05/23] Azure Blue(5) v Saltwell Club(7) @ Azure Blue
+27, [25/05/23] William IV(8) v Brandling B(4) @ William IV
+27, [25/05/23] Plough A(10) v Top Bay Horse B(2) @ Plough A
+27, [25/05/23] Bye(12) v Mallard A(11) @ Bye
+28, [01/06/23] Top Bay Horse B(2) v Bye(12) @ Top Bay Horse B
+28, [01/06/23] Brandling B(4) v Plough A(10) @ Brandling B
+28, [01/06/23] Durham Ranger(6) v William IV(8) @ Durham Ranger
+28, [01/06/23] Saltwell Club(7) v Top Bay Horse A(1) @ Saltwell Club
+28, [01/06/23] Plough C(9) v Azure Blue(5) @ Plough C
+28, [01/06/23] Mallard A(11) v Nag's Head(3) @ Mallard A
+29, [15/06/23] Top Bay Horse A(1) v William IV(8) @ Top Bay Horse A
+29, [15/06/23] Nag's Head(3) v Top Bay Horse B(2) @ Nag's Head
+29, [15/06/23] Azure Blue(5) v Mallard A(11) @ Azure Blue
+29, [15/06/23] Saltwell Club(7) v Plough C(9) @ Saltwell Club
+29, [15/06/23] Plough A(10) v Durham Ranger(6) @ Plough A
+29, [15/06/23] Bye(12) v Brandling B(4) @ Bye
+30, [22/06/23] Top Bay Horse B(2) v Azure Blue(5) @ Top Bay Horse B
+30, [22/06/23] Brandling B(4) v Nag's Head(3) @ Brandling B
+30, [22/06/23] Durham Ranger(6) v Bye(12) @ Durham Ranger
+30, [22/06/23] William IV(8) v Plough A(10) @ William IV
+30, [22/06/23] Plough C(9) v Top Bay Horse A(1) @ Plough C
+30, [22/06/23] Mallard A(11) v Saltwell Club(7) @ Mallard A
+31, [06/07/23] Top Bay Horse A(1) v Plough A(10) @ Top Bay Horse A
+31, [06/07/23] Nag's Head(3) v Durham Ranger(6) @ Nag's Head
+31, [06/07/23] Azure Blue(5) v Brandling B(4) @ Azure Blue
+31, [06/07/23] Saltwell Club(7) v Top Bay Horse B(2) @ Saltwell Club
+31, [06/07/23] Plough C(9) v Mallard A(11) @ Plough C
+31, [06/07/23] Bye(12) v William IV(8) @ Bye
+32, [13/07/23] Top Bay Horse B(2) v Plough C(9) @ Top Bay Horse B
+32, [13/07/23] Brandling B(4) v Saltwell Club(7) @ Brandling B
+32, [13/07/23] Durham Ranger(6) v Azure Blue(5) @ Durham Ranger
+32, [13/07/23] William IV(8) v Nag's Head(3) @ William IV
+32, [13/07/23] Plough A(10) v Bye(12) @ Plough A
+32, [13/07/23] Mallard A(11) v Top Bay Horse A(1) @ Mallard A
+33, [20/07/23] Top Bay Horse A(1) v Bye(12) @ Top Bay Horse A
+33, [20/07/23] Nag's Head(3) v Plough A(10) @ Nag's Head
+33, [20/07/23] Azure Blue(5) v William IV(8) @ Azure Blue
+33, [20/07/23] Saltwell Club(7) v Durham Ranger(6) @ Saltwell Club
+33, [20/07/23] Plough C(9) v Brandling B(4) @ Plough C
+33, [20/07/23] Mallard A(11) v Top Bay Horse B(2) @ Mallard A
