@@ -89,10 +89,12 @@ Division: <name of division>
 Time: <time for matches, default 20:00>
 
 # List of teams
-# The number on the left, before the colon, must be unique in this file, but numbers may be
-# omitted.
-# <team name> is a human readable name, output in that mode
-# <venue name> is the `Short Code` for the team in League Republic
+# The number on the left, before the colon, must be unique in this file, but
+# numbers need not be sequential. It's suggested that you start at one and go from
+# there
+# <nth team name> is a human readable name, which is output in that particular mode
+# <venue name> optional; the name of the venue if vastly different from the team name
+# <short code> is the `Short Code` for the team in League Republic and MUST be present before upload
 1: <first team name>{|<venue name>}{%<short code>}
 2: <second team name>{|<venue name>}{%<short code>}
 3: <...>

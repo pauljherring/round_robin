@@ -36,6 +36,10 @@ pre {
 	padding: 2px 6px;
 	width: 90%;
 }
+form {
+	width: 50%;
+	box-shadow: 0 0 2px 2px blue;
+}
 </style>
 </head>
 
@@ -47,23 +51,28 @@ pre {
 <h2>Example config files</h2>
 <ul>
 	<li><details><summary>Example with detailed comments</summary>
-	<pre>
+	<p>See <a href="https://github.com/pauljherring/round_robin?tab=readme-ov-file#input-file-format">Input File Format</a> on Github for more details.</p>
+<pre>
+# Lines starting with a hash are ignored
+
 # Header
 
 # Description of the division. Not currently used in anything but the human readable output
-Division: <name of division>
+Division: &lt;name of division>
 
 # When matches would normally start. Used in the League Republic output to populate that
-Time: <time for matches, default 20:00>
+Time: &lt;time for matches, default 20:00>
 
 # List of teams
-# The number on the left, before the colon, must be unique in this file, but numbers may be
-# omitted.
-# <team name> is a human readable name, output in that mode
-# <venue name> is the `Short Code` for the team in League Republic
-1: <first team name>{|<venue name>}{%<short code>}
-2: <second team name>{|<venue name>}{%<short code>}
-3: <...>
+# The number on the left, before the colon, must be unique in this file, but
+# numbers need not be sequential. It's suggested that you start at one and go from
+# there
+# &lt;nth team name> is a human readable name, which is output in that particular mode
+# &lt;venue name> optional; the name of the venue if vastly different from the team name
+# &lt;short code> is the `Short Code` for the team in League Republic and MUST be present before upload
+1: &lt;first team name>{|&lt;venue name>}{%&lt;short code>}
+2: &lt;second team name>{|&lt;venue name>}{%&lt;short code>}
+3: &lt;...>
 ...
 
 # When fixtures happen. Lines must start with `week` (case insensitive) followed by a
@@ -76,7 +85,7 @@ Time: <time for matches, default 20:00>
 # for the next calendar match. For (real) example, 21/22 Christmas with our matches on Thursdays:
 # Week14:09/12/2021
 # Week15:16/12/2021
-#  <xmas/new year here>
+#  &lt;xmas/new year here>
 # Week16:06/01/2022 # NOT week 18.
 # Week17:20/01/2022
 #
