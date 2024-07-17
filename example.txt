@@ -1,0 +1,41 @@
+<pre>
+# Header
+
+# Description of the division. Not currently used in anything but the human readable output
+Division: <name of division>
+
+# When matches would normally start. Used in the League Republic output to populate that
+Time: <time for matches, default 20:00>
+
+# List of teams
+# The number on the left, before the colon, must be unique in this file, but numbers may be
+# omitted.
+# <team name> is a human readable name, output in that mode
+# <venue name> is the `Short Code` for the team in League Republic
+1: <first team name>{|<venue name>}{%<short code>}
+2: <second team name>{|<venue name>}{%<short code>}
+3: <...>
+...
+
+# When fixtures happen. Lines must start with `week` (case insensitive) followed by a
+# monotonically incrementing number.
+#
+# If you wish two sets of fixtures on the same date, use that same date on two consecutive
+# 'weeks'
+#
+# Hopefully obviously, if you want calendar weeks off, simply omit them and use WeekN+1
+# for the next calendar match. For (real) example, 21/22 Christmas with our matches on Thursdays:
+# Week14:09/12/2021
+# Week15:16/12/2021
+#  <xmas/new year here>
+# Week16:06/01/2022 # NOT week 18.
+# Week17:20/01/2022
+#
+# Not monotonically incrementing the Week# number will result in fixture sets for those missing
+# being omitted.
+Week1:dd/mm/yyy
+Week2:dd/mm/yyy
+Week3:dd/mm/yyy
+...
+Week19:dd/mm/yyy
+</pre>

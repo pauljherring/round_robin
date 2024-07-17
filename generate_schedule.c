@@ -205,11 +205,14 @@ int get_options(int argc, char** argv){
 				printf("\n");
 				break;
 			case 'h':
+				printf("Help:\n");
 				help();
 				exit(EXIT_SUCCESS);
 			case 'm': output_format = change_format(human); break;
 			case 'l': output_format = change_format(league_republic); break;
+			case '?': break;
 			default:
+				printf("Unrecognised option: %c\n", c);
 				help();
 				break;
 		}

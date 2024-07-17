@@ -1,32 +1,32 @@
 #Division:D1
-### Time: <time for matches, default 20:00>
-#1:Birtley A%BRTA
-#2:Birtley B%BRTB
-#3:Coach & Horses A%CAHA
-#4:Corporation Club%COR
-#5:Eagle%EAG
-#6:Pelaw Inn%PEL
-#7:Mallard A%MALA
-#8:Mallard B%MALB
-#9:Travellers Rest A%TR
-#10:Travellers Rest B%PLOC
-#11:William IV%WIV
-#12:Sky Lounge A%SKY
+# Time: <time for matches, default 20:00>
+1:Birtley A%BRTA
+2:Birtley B%BRTB
+3:Coach & Horses A%CAHA
+4:Corporation Club%COR
+5:Eagle%EAG
+6:Pelaw Inn%PEL
+7:Mallard A%MALA
+8:Mallard B%MALB
+9:Travellers Rest A%TR
+10:Travellers Rest B%PLOC
+11:William IV%WIV
+12:Sky Lounge A%SKY
 
 
-Division:D2
-1:Brandling A%BRNA
-2:Brandling B%BRNB
-3:Azure Blue%AZB
-4:Coach & Horses A%CAHA
-5:Gold Medal%GLDM
-6:Fiddlers%FIDD
-7:Guide Post%GUDP
-8:Nag's Head%NGH
-9:Plough%PLOA
-10:Saltwell Club%STL
-11:Sky Lounge B%SKYB
-12:Top Bay Horse%TBH
+#Division:D2
+#1:Brandling A%BRNA
+#2:Brandling B%BRNB
+#3:Azure Blue%AZB
+#4:Coach & Horses A%CAHA
+#5:Gold Medal%GLDM
+#6:Fiddlers%FIDD
+#7:Guide Post%GUDP
+#8:Nag's Head%NGH
+#9:Plough%PLOA
+#10:Saltwell Club%STL
+#11:Sky Lounge B%SKYB
+#12:Top Bay Horse%TBH
 
 
 Week1:07/09/2023
