@@ -1,65 +1,104 @@
 #Division:D1
 # Time: <time for matches, default 20:00>
-1:Birtley A%BRTA
-2:Birtley B%BRTB
-3:Coach & Horses A%CAHA
-4:Corporation Club%COR
-5:Eagle%EAG
-6:Pelaw Inn%PEL
-7:Mallard A%MALA
-8:Mallard B%MALB
-9:Travellers Rest A%TR
-10:Travellers Rest B%PLOC
-11:William IV%WIV
-12:Sky Lounge A%SKY
-13:Another Team%BYE
 
+
+1:Travellers A
+2:Travellers B
+3:Pelaw
+4:Coach A
+#5:Eagle
+5:Bye
+6:Guide B
+7:Corpy
+8:Nags B
+9:Sky A
+10:Sky B
+11:Mallard A
+12:Mallard B
+13:Birtley A
+14:Birtley B
+
+#1:Brandling A
+#2:Brandling B
+#3:Coach B
+#4:Holly Hill
+##5:Guide A
+#5:Eagle
+#6:Half Moon
+#7:Nags A
+#8:Portland
+#9:Plough A
+#10:Plough B
+#11:Saltwell A
+#12:Saltwell B
+#13:Gold Medal
+#14:Bye
+
+
+## Birtley A&B derby week 1/13
+#1:Birtley A%BRTA
+#2:Birtley B%BRTB
+#3:Coach & Horses A%CAHA
+## Corpy Club need to be on an even number to get match #1 to be away
+#4:Corporation Club%COR
+## Guide Post B were Fiddlers
+#5:Guide Post B%GDPB
+#6:Pelaw Inn%PEL
+#7:Travellers Rest A%TR
+#8:Travellers Rest B%PLOC
+## Sky A&B derby week 2/13
+#9:Sky Lounge A%SKY
+#10:Sky Lounge B%SKYB
+## Mallard A&B derby week 4/13
+#11:Mallard A%MALA
+#12:Mallard B%MALB
+#13:Nag's Head B%NGHB
+## Eagle may get relegated
+#14:Eagle%EAG
 
 #Division:D2
+## Brandling A&B derby week 1/13
 #1:Brandling A%BRNA
 #2:Brandling B%BRNB
-#3:Azure Blue%AZB
-#4:Coach & Horses A%CAHA
-#5:Gold Medal%GLDM
-#6:Fiddlers%FIDD
-#7:Guide Post%GUDP
-#8:Nag's Head%NGH
-#9:Plough%PLOA
-#10:Saltwell Club%STL
-#11:Sky Lounge B%SKYB
-#12:Top Bay Horse%TBH
+#3:Half Moon Inn%HMI
+##Holly Hill need early derby match with C&H - week 2/13
+#4:Coach & Horses B%CAHB
+#5:Holly Hill Club%HHC
+## Guide post A may drop out - replace with Eagle if so
+#4:Guide Post A%GUDP
+#5:Portland Arms%PLD
+#6:Plough%TBH
+#7:Plough%PLOA
+#8:Nag's Head A%NGH
+## Saltwell A&B derby week 4/13
+#11:Saltwell Club A%STL
+#12:Saltwell Club B%STLB
+#13:Gold Medal%GLDM
 
 
-Week1:07/09/2023
-Week2:14/09/2023
-Week3:21/09/2023
-Week4:28/09/2023
-Week5:05/10/2023
-Week6:19/10/2023
-Week7:26/10/2023
-Week8:09/11/2023
-Week9:16/11/2023
-Week10:30/11/2023
-Week11:07/12/2023
-Week12:14/12/2023
-Week13:11/01/2024
-Week14:25/01/2024
-Week15:01/02/2024
-Week16:15/02/2024
-Week17:22/02/2024
-Week18:07/03/2024
-Week19:14/03/2024
-Week20:28/03/2024
-Week21:04/04/2024
-Week22:18/04/2024
-Week23:25/04/2024
-Week24:02/05/2024
-Week25:16/05/2024
-Week26:23/05/2024
-Week27:06/06/2024
-Week28:13/06/2024
-Week29:27/06/2024
-Week30:04/07/2024
-Week31:11/07/2024
-Week32:18/07/2024
-Week33:25/07/2024
+Week1:05/09/24
+Week2:12/09/24
+Week3:19/09/24
+Week4:26/09/24
+Week5:03/10/24
+Week6:17/10/24
+Week7:31/10/24
+Week8:14/11/24
+Week9:28/11/24
+Week10:12/12/24
+Week11:09/01/25
+Week12:16/01/25
+Week13:30/01/25
+Week14:06/02/25
+Week15:20/02/25
+Week16:13/03/25
+Week17:27/03/25
+Week18:10/04/25
+Week19:24/04/25
+Week20:01/05/25
+Week21:15/05/25
+Week22:22/05/25
+Week23:05/06/25
+Week24:19/06/25
+Week25:26/06/25
+Week26:03/07/25
