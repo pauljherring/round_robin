@@ -1,0 +1,29 @@
+#Division:D1
+# Time: <time for matches, default 20:00>
+
+1:Travellers%TRA
+2:Leam A%LEA
+3:Leam B%LEB
+4:Coach A%CAHA
+5:Coach B%CAHB
+6:Royal A%RYLA
+7:Royal B%RYLB
+8:Nag's Head%NAG
+9:Mallard%MAL
+10:Plough A%PLO
+11:Plough B%PLOB
+12:Pelaw Club%PELA
+13:Holly Hill%HOLL
+14:Brandling%BRN
+15:Half Moon%HALF
+
+#Travellers & Leam A home, Coach A&B, Half Moon
+
+Week1:23/07/25
+Week2:30/07/25
+Week3:06/08/25
+Week4:13/08/25
+Week5:20/08/25
+Week6:27/08/25
+Week7:03/09/25
+Week8:10/09/25
