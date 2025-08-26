@@ -1,0 +1,60 @@
+#Division:D1
+# Time: <time for matches, default 20:00>
+
+
+#1:Travellers B%PLOC
+#2:Travellers A%TR
+#3:Pelaw%PEL
+#4:Coach A%CAHA
+#5:Bye%BYE
+#6:Guide B%FIDD
+#7:Corpy%COR
+#8:Nags B%WIV
+#9:Sky A%SKY
+#10:Sky B%SKYB
+#11:Mallard A%MALA
+#12:Mallard B%MALB
+#13:Birtley A%BRTA
+#14:Birtley B%BRTB
+
+1:Brandling A%BRNA
+2:Brandling B%BRNB
+3:Coach B%CAHB
+4:Half Moon%HM
+5:Guide A%GUDP
+6:Holly Hill%HH
+7:Nags A%NGH
+8:Bye%BYE
+9:Plough A%PLOA
+10:Plough B%TBH
+11:Saltwell A%STL
+12:Eagle%EAG
+13:Gold Medal%GLDM
+14:Cannon%CAN
+
+Week1:05/09/2024
+Week2:12/09/2024
+Week3:19/09/2024
+Week4:26/09/2024
+Week5:03/10/2024
+Week6:17/10/2024
+Week7:31/10/2024
+Week8:14/11/2024
+Week9:28/11/2024
+Week10:12/12/2024
+Week11:09/01/2025
+Week12:16/01/2025
+Week13:30/01/2025
+Week14:06/02/2025
+Week15:20/02/2025
+Week16:13/03/2025
+Week17:27/03/2025
+Week18:10/04/2025
+Week19:24/04/2025
+Week20:01/05/2025
+Week21:15/05/2025
+Week22:22/05/2025
+Week23:05/06/2025
+Week24:19/06/2025
+Week25:26/06/2025
+Week26:03/07/2025

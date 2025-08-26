@@ -1,4 +1,3 @@
-<pre>
 # Header
 
 # Description of the division. Not currently used in anything but the human readable output
@@ -11,9 +10,9 @@ Time: <time for matches, default 20:00>
 # The number on the left, before the colon, must be unique in this file, but numbers may be
 # omitted.
 # <team name> is a human readable name, output in that mode
-# <venue name> is the `Short Code` for the team in League Republic
-1: <first team name>{|<venue name>}{%<short code>}
-2: <second team name>{|<venue name>}{%<short code>}
+# <short code> is the `Short Code` for the team in League Republic
+1: <first team name>{%<short code>}
+2: <second team name>{%<short code>}
 3: <...>
 ...
 
@@ -38,4 +37,4 @@ Week2:dd/mm/yyy
 Week3:dd/mm/yyy
 ...
 Week19:dd/mm/yyy
-</pre>
+
