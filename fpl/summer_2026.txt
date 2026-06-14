@@ -1,0 +1,24 @@
+#Division:D1
+# Time: <time for matches, default 20:00>
+
+#1:Coach A%CAHA
+#2:Dunston Excelsior%EX
+#3:Brandling A%BRN
+#4:Brandling B%BRNB
+
+1:Plough%PLO
+2:Coach B%CAHB
+3:Royal A%RYLA
+4:Royal B%RYLB
+
+#1:Leam Club A%LEA
+#2:Leam Club B%LEB
+#3:Mallard%MAL
+#4:Travellers%TRA
+
+Week1:29/07/2026
+Week2:05/08/2026
+Week3:12/08/2026
+Week4:19/08/2026
+Week5:26/08/2026
+Week6:02/09/2026

@@ -2,59 +2,64 @@
 # Time: <time for matches, default 20:00>
 
 
-#1:Travellers B%PLOC
-#2:Travellers A%TR
-#3:Pelaw%PEL
-#4:Coach A%CAHA
-#5:Bye%BYE
-#6:Guide B%FIDD
-#7:Corpy%COR
-#8:Nags B%WIV
-#9:Sky A%SKY
-#10:Sky B%SKYB
-#11:Mallard A%MALA
-#12:Mallard B%MALB
-#13:Birtley A%BRTA
-#14:Birtley B%BRTB
+#1:Birtley A%BRTA
+#2:Birtley B%BRTB
+#3:Mallard A%MALA
+#4:Pelaw Inn A%PEL
+#5:Swan%SKYC
+#6:Half Moon%HM
+#7:Plough B%PLOC
+#8:Coach & Horses A%CAHA
+#9:Travellers Rest A%TR
+#10:Brandling B%MALB
+#11:Corporation Club%COR
+#12:Leam Club%CAN
 
-1:Brandling A%BRNA
-2:Brandling B%BRNB
-3:Coach B%CAHB
-4:Half Moon%HM
-5:Guide A%GUDP
+
+1:Saltwell Club A%STL
+2:Saltwell Club B%SWCB
+3:Pelaw B%BRNB
+4:Eagle%EAG
+5:Guide Post A%GUDP
 6:Holly Hill%HH
-7:Nags A%NGH
-8:Bye%BYE
-9:Plough A%PLOA
-10:Plough B%TBH
-11:Saltwell A%STL
-12:Eagle%EAG
-13:Gold Medal%GLDM
-14:Cannon%CAN
+7:Coach & Horses B%CAHB
+8:Plough A%PLOA
+9:Brandling A%BRNA
+10:Travellers B%TBH
+11:Nag's Head A%NGH
+12:Ninepins%9P
 
-Week1:05/09/2024
-Week2:12/09/2024
-Week3:19/09/2024
-Week4:26/09/2024
-Week5:03/10/2024
-Week6:17/10/2024
-Week7:31/10/2024
-Week8:14/11/2024
-Week9:28/11/2024
-Week10:12/12/2024
-Week11:09/01/2025
-Week12:16/01/2025
-Week13:30/01/2025
-Week14:06/02/2025
-Week15:20/02/2025
-Week16:13/03/2025
-Week17:27/03/2025
-Week18:10/04/2025
-Week19:24/04/2025
-Week20:01/05/2025
-Week21:15/05/2025
-Week22:22/05/2025
-Week23:05/06/2025
-Week24:19/06/2025
-Week25:26/06/2025
-Week26:03/07/2025
+
+Week1:11/09/2025
+Week2:18/09/2025
+Week3:25/09/2025
+Week4:02/10/2025
+Week5:09/10/2025
+Week6:23/10/2025
+Week7:30/10/2025
+Week8:13/11/2025
+Week9:20/11/2025
+Week10:04/12/2025
+Week11:11/12/2025
+Week12:08/01/2026
+Week13:15/01/2026
+Week14:29/01/2026
+Week15:05/02/2026
+Week16:19/02/2026
+Week17:26/02/2026
+Week18:12/03/2026
+Week19:19/03/2026
+Week20:02/04/2026
+Week21:09/04/2026
+Week22:23/04/2026
+Week23:30/04/2026
+Week24:14/05/2026
+Week25:21/05/2026
+Week26:28/05/2026
+Week27:04/06/2026
+Week28:11/06/2026
+Week29:18/06/2026
+Week30:25/06/2026
+Week31:02/07/2026
+Week32:09/07/2026
+Week33:16/07/2026

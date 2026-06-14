@@ -1,0 +1,214 @@
+Division -
+Start time - 20:00
+12 team:
+1 - Saltwell Club A[STL](Saltwell Club A)
+2 - Saltwell Club B[SWCB](Saltwell Club B)
+3 - Pelaw B[BRNB](Pelaw B)
+4 - Eagle[EAG](Eagle)
+5 - Guide Post A[GUDP](Guide Post A)
+6 - Holly Hill[HH](Holly Hill)
+7 - Coach & Horses B[CAHB](Coach & Horses B)
+8 - Plough A[PLOA](Plough A)
+9 - Brandling A[BRNA](Brandling A)
+10 - Travellers B[TBH](Travellers B)
+11 - Nag's Head A[NGH](Nag's Head A)
+12 - Ninepins[9P](Ninepins)
+Using matrix for 12 teams
+ 1, [11/09/2025] Saltwell Club A(1) v Saltwell Club B(2) @ Saltwell Club A
+ 1, [11/09/2025] Eagle(4) v Nag's Head A(11) @ Eagle
+ 1, [11/09/2025] Holly Hill(6) v Brandling A(9) @ Holly Hill
+ 1, [11/09/2025] Plough A(8) v Coach & Horses B(7) @ Plough A
+ 1, [11/09/2025] Travellers B(10) v Guide Post A(5) @ Travellers B
+ 1, [11/09/2025] Ninepins(12) v Pelaw B(3) @ Ninepins
+ 2, [18/09/2025] Saltwell Club B(2) v Eagle(4) @ Saltwell Club B
+ 2, [18/09/2025] Pelaw B(3) v Saltwell Club A(1) @ Pelaw B
+ 2, [18/09/2025] Guide Post A(5) v Ninepins(12) @ Guide Post A
+ 2, [18/09/2025] Coach & Horses B(7) v Travellers B(10) @ Coach & Horses B
+ 2, [18/09/2025] Brandling A(9) v Plough A(8) @ Brandling A
+ 2, [18/09/2025] Nag's Head A(11) v Holly Hill(6) @ Nag's Head A
+ 3, [25/09/2025] Saltwell Club A(1) v Eagle(4) @ Saltwell Club A
+ 3, [25/09/2025] Pelaw B(3) v Guide Post A(5) @ Pelaw B
+ 3, [25/09/2025] Holly Hill(6) v Saltwell Club B(2) @ Holly Hill
+ 3, [25/09/2025] Plough A(8) v Nag's Head A(11) @ Plough A
+ 3, [25/09/2025] Travellers B(10) v Brandling A(9) @ Travellers B
+ 3, [25/09/2025] Ninepins(12) v Coach & Horses B(7) @ Ninepins
+ 4, [02/10/2025] Saltwell Club B(2) v Plough A(8) @ Saltwell Club B
+ 4, [02/10/2025] Eagle(4) v Holly Hill(6) @ Eagle
+ 4, [02/10/2025] Guide Post A(5) v Saltwell Club A(1) @ Guide Post A
+ 4, [02/10/2025] Coach & Horses B(7) v Pelaw B(3) @ Coach & Horses B
+ 4, [02/10/2025] Brandling A(9) v Ninepins(12) @ Brandling A
+ 4, [02/10/2025] Nag's Head A(11) v Travellers B(10) @ Nag's Head A
+ 5, [09/10/2025] Saltwell Club A(1) v Holly Hill(6) @ Saltwell Club A
+ 5, [09/10/2025] Pelaw B(3) v Brandling A(9) @ Pelaw B
+ 5, [09/10/2025] Guide Post A(5) v Coach & Horses B(7) @ Guide Post A
+ 5, [09/10/2025] Plough A(8) v Eagle(4) @ Plough A
+ 5, [09/10/2025] Travellers B(10) v Saltwell Club B(2) @ Travellers B
+ 5, [09/10/2025] Ninepins(12) v Nag's Head A(11) @ Ninepins
+ 6, [23/10/2025] Saltwell Club B(2) v Ninepins(12) @ Saltwell Club B
+ 6, [23/10/2025] Eagle(4) v Travellers B(10) @ Eagle
+ 6, [23/10/2025] Holly Hill(6) v Plough A(8) @ Holly Hill
+ 6, [23/10/2025] Coach & Horses B(7) v Saltwell Club A(1) @ Coach & Horses B
+ 6, [23/10/2025] Brandling A(9) v Guide Post A(5) @ Brandling A
+ 6, [23/10/2025] Nag's Head A(11) v Pelaw B(3) @ Nag's Head A
+ 7, [30/10/2025] Saltwell Club A(1) v Plough A(8) @ Saltwell Club A
+ 7, [30/10/2025] Pelaw B(3) v Saltwell Club B(2) @ Pelaw B
+ 7, [30/10/2025] Guide Post A(5) v Nag's Head A(11) @ Guide Post A
+ 7, [30/10/2025] Coach & Horses B(7) v Brandling A(9) @ Coach & Horses B
+ 7, [30/10/2025] Travellers B(10) v Holly Hill(6) @ Travellers B
+ 7, [30/10/2025] Ninepins(12) v Eagle(4) @ Ninepins
+ 8, [13/11/2025] Saltwell Club B(2) v Guide Post A(5) @ Saltwell Club B
+ 8, [13/11/2025] Eagle(4) v Pelaw B(3) @ Eagle
+ 8, [13/11/2025] Holly Hill(6) v Ninepins(12) @ Holly Hill
+ 8, [13/11/2025] Plough A(8) v Travellers B(10) @ Plough A
+ 8, [13/11/2025] Brandling A(9) v Saltwell Club A(1) @ Brandling A
+ 8, [13/11/2025] Nag's Head A(11) v Coach & Horses B(7) @ Nag's Head A
+ 9, [20/11/2025] Saltwell Club A(1) v Travellers B(10) @ Saltwell Club A
+ 9, [20/11/2025] Pelaw B(3) v Holly Hill(6) @ Pelaw B
+ 9, [20/11/2025] Guide Post A(5) v Eagle(4) @ Guide Post A
+ 9, [20/11/2025] Coach & Horses B(7) v Saltwell Club B(2) @ Coach & Horses B
+ 9, [20/11/2025] Brandling A(9) v Nag's Head A(11) @ Brandling A
+ 9, [20/11/2025] Ninepins(12) v Plough A(8) @ Ninepins
+10, [04/12/2025] Saltwell Club B(2) v Brandling A(9) @ Saltwell Club B
+10, [04/12/2025] Eagle(4) v Coach & Horses B(7) @ Eagle
+10, [04/12/2025] Holly Hill(6) v Guide Post A(5) @ Holly Hill
+10, [04/12/2025] Plough A(8) v Pelaw B(3) @ Plough A
+10, [04/12/2025] Travellers B(10) v Ninepins(12) @ Travellers B
+10, [04/12/2025] Nag's Head A(11) v Saltwell Club A(1) @ Nag's Head A
+11, [11/12/2025] Saltwell Club A(1) v Ninepins(12) @ Saltwell Club A
+11, [11/12/2025] Pelaw B(3) v Travellers B(10) @ Pelaw B
+11, [11/12/2025] Guide Post A(5) v Plough A(8) @ Guide Post A
+11, [11/12/2025] Coach & Horses B(7) v Holly Hill(6) @ Coach & Horses B
+11, [11/12/2025] Brandling A(9) v Eagle(4) @ Brandling A
+11, [11/12/2025] Nag's Head A(11) v Saltwell Club B(2) @ Nag's Head A
+12, [08/01/2026] Saltwell Club B(2) v Saltwell Club A(1) @ Saltwell Club B
+12, [08/01/2026] Pelaw B(3) v Ninepins(12) @ Pelaw B
+12, [08/01/2026] Guide Post A(5) v Travellers B(10) @ Guide Post A
+12, [08/01/2026] Coach & Horses B(7) v Plough A(8) @ Coach & Horses B
+12, [08/01/2026] Brandling A(9) v Holly Hill(6) @ Brandling A
+12, [08/01/2026] Nag's Head A(11) v Eagle(4) @ Nag's Head A
+13, [15/01/2026] Saltwell Club A(1) v Pelaw B(3) @ Saltwell Club A
+13, [15/01/2026] Eagle(4) v Saltwell Club B(2) @ Eagle
+13, [15/01/2026] Holly Hill(6) v Nag's Head A(11) @ Holly Hill
+13, [15/01/2026] Plough A(8) v Brandling A(9) @ Plough A
+13, [15/01/2026] Travellers B(10) v Coach & Horses B(7) @ Travellers B
+13, [15/01/2026] Ninepins(12) v Guide Post A(5) @ Ninepins
+14, [29/01/2026] Saltwell Club B(2) v Holly Hill(6) @ Saltwell Club B
+14, [29/01/2026] Eagle(4) v Saltwell Club A(1) @ Eagle
+14, [29/01/2026] Guide Post A(5) v Pelaw B(3) @ Guide Post A
+14, [29/01/2026] Coach & Horses B(7) v Ninepins(12) @ Coach & Horses B
+14, [29/01/2026] Brandling A(9) v Travellers B(10) @ Brandling A
+14, [29/01/2026] Nag's Head A(11) v Plough A(8) @ Nag's Head A
+15, [05/02/2026] Saltwell Club A(1) v Guide Post A(5) @ Saltwell Club A
+15, [05/02/2026] Pelaw B(3) v Coach & Horses B(7) @ Pelaw B
+15, [05/02/2026] Holly Hill(6) v Eagle(4) @ Holly Hill
+15, [05/02/2026] Plough A(8) v Saltwell Club B(2) @ Plough A
+15, [05/02/2026] Travellers B(10) v Nag's Head A(11) @ Travellers B
+15, [05/02/2026] Ninepins(12) v Brandling A(9) @ Ninepins
+16, [19/02/2026] Saltwell Club B(2) v Travellers B(10) @ Saltwell Club B
+16, [19/02/2026] Eagle(4) v Plough A(8) @ Eagle
+16, [19/02/2026] Holly Hill(6) v Saltwell Club A(1) @ Holly Hill
+16, [19/02/2026] Coach & Horses B(7) v Guide Post A(5) @ Coach & Horses B
+16, [19/02/2026] Brandling A(9) v Pelaw B(3) @ Brandling A
+16, [19/02/2026] Nag's Head A(11) v Ninepins(12) @ Nag's Head A
+17, [26/02/2026] Saltwell Club A(1) v Coach & Horses B(7) @ Saltwell Club A
+17, [26/02/2026] Pelaw B(3) v Nag's Head A(11) @ Pelaw B
+17, [26/02/2026] Guide Post A(5) v Brandling A(9) @ Guide Post A
+17, [26/02/2026] Plough A(8) v Holly Hill(6) @ Plough A
+17, [26/02/2026] Travellers B(10) v Eagle(4) @ Travellers B
+17, [26/02/2026] Ninepins(12) v Saltwell Club B(2) @ Ninepins
+18, [12/03/2026] Saltwell Club B(2) v Pelaw B(3) @ Saltwell Club B
+18, [12/03/2026] Eagle(4) v Ninepins(12) @ Eagle
+18, [12/03/2026] Holly Hill(6) v Travellers B(10) @ Holly Hill
+18, [12/03/2026] Plough A(8) v Saltwell Club A(1) @ Plough A
+18, [12/03/2026] Brandling A(9) v Coach & Horses B(7) @ Brandling A
+18, [12/03/2026] Nag's Head A(11) v Guide Post A(5) @ Nag's Head A
+19, [19/03/2026] Saltwell Club A(1) v Brandling A(9) @ Saltwell Club A
+19, [19/03/2026] Pelaw B(3) v Eagle(4) @ Pelaw B
+19, [19/03/2026] Guide Post A(5) v Saltwell Club B(2) @ Guide Post A
+19, [19/03/2026] Coach & Horses B(7) v Nag's Head A(11) @ Coach & Horses B
+19, [19/03/2026] Travellers B(10) v Plough A(8) @ Travellers B
+19, [19/03/2026] Ninepins(12) v Holly Hill(6) @ Ninepins
+20, [02/04/2026] Saltwell Club B(2) v Coach & Horses B(7) @ Saltwell Club B
+20, [02/04/2026] Eagle(4) v Guide Post A(5) @ Eagle
+20, [02/04/2026] Holly Hill(6) v Pelaw B(3) @ Holly Hill
+20, [02/04/2026] Plough A(8) v Ninepins(12) @ Plough A
+20, [02/04/2026] Travellers B(10) v Saltwell Club A(1) @ Travellers B
+20, [02/04/2026] Nag's Head A(11) v Brandling A(9) @ Nag's Head A
+21, [09/04/2026] Saltwell Club A(1) v Nag's Head A(11) @ Saltwell Club A
+21, [09/04/2026] Pelaw B(3) v Plough A(8) @ Pelaw B
+21, [09/04/2026] Guide Post A(5) v Holly Hill(6) @ Guide Post A
+21, [09/04/2026] Coach & Horses B(7) v Eagle(4) @ Coach & Horses B
+21, [09/04/2026] Brandling A(9) v Saltwell Club B(2) @ Brandling A
+21, [09/04/2026] Ninepins(12) v Travellers B(10) @ Ninepins
+22, [23/04/2026] Saltwell Club B(2) v Nag's Head A(11) @ Saltwell Club B
+22, [23/04/2026] Eagle(4) v Brandling A(9) @ Eagle
+22, [23/04/2026] Holly Hill(6) v Coach & Horses B(7) @ Holly Hill
+22, [23/04/2026] Plough A(8) v Guide Post A(5) @ Plough A
+22, [23/04/2026] Travellers B(10) v Pelaw B(3) @ Travellers B
+22, [23/04/2026] Ninepins(12) v Saltwell Club A(1) @ Ninepins
+23, [30/04/2026] Saltwell Club A(1) v Saltwell Club B(2) @ Saltwell Club A
+23, [30/04/2026] Eagle(4) v Nag's Head A(11) @ Eagle
+23, [30/04/2026] Holly Hill(6) v Brandling A(9) @ Holly Hill
+23, [30/04/2026] Plough A(8) v Coach & Horses B(7) @ Plough A
+23, [30/04/2026] Travellers B(10) v Guide Post A(5) @ Travellers B
+23, [30/04/2026] Ninepins(12) v Pelaw B(3) @ Ninepins
+24, [14/05/2026] Saltwell Club B(2) v Eagle(4) @ Saltwell Club B
+24, [14/05/2026] Pelaw B(3) v Saltwell Club A(1) @ Pelaw B
+24, [14/05/2026] Guide Post A(5) v Ninepins(12) @ Guide Post A
+24, [14/05/2026] Coach & Horses B(7) v Travellers B(10) @ Coach & Horses B
+24, [14/05/2026] Brandling A(9) v Plough A(8) @ Brandling A
+24, [14/05/2026] Nag's Head A(11) v Holly Hill(6) @ Nag's Head A
+25, [21/05/2026] Saltwell Club A(1) v Eagle(4) @ Saltwell Club A
+25, [21/05/2026] Pelaw B(3) v Guide Post A(5) @ Pelaw B
+25, [21/05/2026] Holly Hill(6) v Saltwell Club B(2) @ Holly Hill
+25, [21/05/2026] Plough A(8) v Nag's Head A(11) @ Plough A
+25, [21/05/2026] Travellers B(10) v Brandling A(9) @ Travellers B
+25, [21/05/2026] Ninepins(12) v Coach & Horses B(7) @ Ninepins
+26, [28/05/2026] Saltwell Club B(2) v Plough A(8) @ Saltwell Club B
+26, [28/05/2026] Eagle(4) v Holly Hill(6) @ Eagle
+26, [28/05/2026] Guide Post A(5) v Saltwell Club A(1) @ Guide Post A
+26, [28/05/2026] Coach & Horses B(7) v Pelaw B(3) @ Coach & Horses B
+26, [28/05/2026] Brandling A(9) v Ninepins(12) @ Brandling A
+26, [28/05/2026] Nag's Head A(11) v Travellers B(10) @ Nag's Head A
+27, [04/06/2026] Saltwell Club A(1) v Holly Hill(6) @ Saltwell Club A
+27, [04/06/2026] Pelaw B(3) v Brandling A(9) @ Pelaw B
+27, [04/06/2026] Guide Post A(5) v Coach & Horses B(7) @ Guide Post A
+27, [04/06/2026] Plough A(8) v Eagle(4) @ Plough A
+27, [04/06/2026] Travellers B(10) v Saltwell Club B(2) @ Travellers B
+27, [04/06/2026] Ninepins(12) v Nag's Head A(11) @ Ninepins
+28, [11/06/2026] Saltwell Club B(2) v Ninepins(12) @ Saltwell Club B
+28, [11/06/2026] Eagle(4) v Travellers B(10) @ Eagle
+28, [11/06/2026] Holly Hill(6) v Plough A(8) @ Holly Hill
+28, [11/06/2026] Coach & Horses B(7) v Saltwell Club A(1) @ Coach & Horses B
+28, [11/06/2026] Brandling A(9) v Guide Post A(5) @ Brandling A
+28, [11/06/2026] Nag's Head A(11) v Pelaw B(3) @ Nag's Head A
+29, [18/06/2026] Saltwell Club A(1) v Plough A(8) @ Saltwell Club A
+29, [18/06/2026] Pelaw B(3) v Saltwell Club B(2) @ Pelaw B
+29, [18/06/2026] Guide Post A(5) v Nag's Head A(11) @ Guide Post A
+29, [18/06/2026] Coach & Horses B(7) v Brandling A(9) @ Coach & Horses B
+29, [18/06/2026] Travellers B(10) v Holly Hill(6) @ Travellers B
+29, [18/06/2026] Ninepins(12) v Eagle(4) @ Ninepins
+30, [25/06/2026] Saltwell Club B(2) v Guide Post A(5) @ Saltwell Club B
+30, [25/06/2026] Eagle(4) v Pelaw B(3) @ Eagle
+30, [25/06/2026] Holly Hill(6) v Ninepins(12) @ Holly Hill
+30, [25/06/2026] Plough A(8) v Travellers B(10) @ Plough A
+30, [25/06/2026] Brandling A(9) v Saltwell Club A(1) @ Brandling A
+30, [25/06/2026] Nag's Head A(11) v Coach & Horses B(7) @ Nag's Head A
+31, [02/07/2026] Saltwell Club A(1) v Travellers B(10) @ Saltwell Club A
+31, [02/07/2026] Pelaw B(3) v Holly Hill(6) @ Pelaw B
+31, [02/07/2026] Guide Post A(5) v Eagle(4) @ Guide Post A
+31, [02/07/2026] Coach & Horses B(7) v Saltwell Club B(2) @ Coach & Horses B
+31, [02/07/2026] Brandling A(9) v Nag's Head A(11) @ Brandling A
+31, [02/07/2026] Ninepins(12) v Plough A(8) @ Ninepins
+32, [09/07/2026] Saltwell Club B(2) v Brandling A(9) @ Saltwell Club B
+32, [09/07/2026] Eagle(4) v Coach & Horses B(7) @ Eagle
+32, [09/07/2026] Holly Hill(6) v Guide Post A(5) @ Holly Hill
+32, [09/07/2026] Plough A(8) v Pelaw B(3) @ Plough A
+32, [09/07/2026] Travellers B(10) v Ninepins(12) @ Travellers B
+32, [09/07/2026] Nag's Head A(11) v Saltwell Club A(1) @ Nag's Head A
+33, [16/07/2026] Saltwell Club A(1) v Ninepins(12) @ Saltwell Club A
+33, [16/07/2026] Pelaw B(3) v Travellers B(10) @ Pelaw B
+33, [16/07/2026] Guide Post A(5) v Plough A(8) @ Guide Post A
+33, [16/07/2026] Coach & Horses B(7) v Holly Hill(6) @ Coach & Horses B
+33, [16/07/2026] Brandling A(9) v Eagle(4) @ Brandling A
+33, [16/07/2026] Nag's Head A(11) v Saltwell Club B(2) @ Nag's Head A

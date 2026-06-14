@@ -1,0 +1,57 @@
+#Division:D1
+# Time: <time for matches, default 20:00>
+
+# 1/2 Week 1, Trav
+# 7/8 Week 1, Leam
+# 9/10 Week 3, Coach
+# 11/12 Week 5, Royal
+
+1:Leam Club A%LEA
+2:Leam Club B%LEB
+3:Brandling%BRN
+4:Bye%BYE
+5:Excelsior%EX
+6:Gateshead Legion%GHL
+7:Mallard%MAL
+8:Nags Head%NAG
+9:Coach & Horses A%CAHA
+10:Coach & Horses B%CAHB
+11:Travellers A%TRA
+12:Travellers B%TRB
+13:Plough A%PLO
+14:Plough B%PLOU
+15:Royal A%RYLA
+16:Royal B%RYLB
+
+
+
+Week1:01/10/2025
+Week2:08/10/2025
+Week3:15/10/2025
+Week4:22/10/2025
+Week5:29/10/2025
+Week6:05/11/2025
+Week7:12/11/2025
+Week8:19/11/2025
+Week9:10/12/2025
+Week10:17/12/2025
+Week11:14/01/2026
+Week12:21/01/2026
+Week13:04/02/2026
+Week14:11/02/2026
+Week15:25/02/2026
+Week16:04/03/2026
+Week17:11/03/2026
+Week18:25/03/2026
+Week19:01/04/2026
+Week20:08/04/2026
+Week21:15/04/2026
+Week22:29/04/2026
+Week23:06/05/2026
+Week24:13/05/2026
+Week25:20/05/2026
+week26:27/05/2026
+Week27:03/06/2026
+Week28:10/06/2026
+Week29:17/06/2026
+Week30:01/07/2026

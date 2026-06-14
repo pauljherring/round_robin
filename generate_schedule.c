@@ -202,10 +202,18 @@ int round_robin_6[6][5] = {
 	{   3, -5,  2, -4, -1},
 };
 
+int round_robin_4[4][3] = {
+	{   2, -3,  4},
+	{  -1,  4, -3},
+	{  -4,  1,  2},
+	{   3, -2, -1},
+};
+
 struct round_robins{
 	int max_teams;
 	int** robins;
 } round_robins[] = {
+	{ 4, (int**)round_robin_4},
 	{ 6, (int**)round_robin_6},
 	{ 8, (int**)round_robin_8},
 	{10, (int**)round_robin_10},
@@ -418,6 +426,9 @@ int main(int argc, char** argv){
 
 			team1 = team+1;
 			switch (lastteam){
+				case 4:
+					team2 = round_robin_4[team][league_week % matchcount];
+					break;
 				case 6:
 					team2 = round_robin_6[team][league_week % matchcount];
 					break;

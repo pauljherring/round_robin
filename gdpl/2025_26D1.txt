@@ -1,0 +1,214 @@
+Division -
+Start time - 20:00
+12 team:
+1 - Birtley A[BRTA](Birtley A)
+2 - Birtley B[BRTB](Birtley B)
+3 - Mallard A[MALA](Mallard A)
+4 - Pelaw Inn A[PEL](Pelaw Inn A)
+5 - Swan[SKYC](Swan)
+6 - Half Moon[HM](Half Moon)
+7 - Plough B[PLOC](Plough B)
+8 - Coach & Horses A[CAHA](Coach & Horses A)
+9 - Travellers Rest A[TR](Travellers Rest A)
+10 - Brandling B[MALB](Brandling B)
+11 - Corporation Club[COR](Corporation Club)
+12 - Leam Club[CAN](Leam Club)
+Using matrix for 12 teams
+ 1, [11/09/2025] Birtley A(1) v Birtley B(2) @ Birtley A
+ 1, [11/09/2025] Pelaw Inn A(4) v Corporation Club(11) @ Pelaw Inn A
+ 1, [11/09/2025] Half Moon(6) v Travellers Rest A(9) @ Half Moon
+ 1, [11/09/2025] Coach & Horses A(8) v Plough B(7) @ Coach & Horses A
+ 1, [11/09/2025] Brandling B(10) v Swan(5) @ Brandling B
+ 1, [11/09/2025] Leam Club(12) v Mallard A(3) @ Leam Club
+ 2, [18/09/2025] Birtley B(2) v Pelaw Inn A(4) @ Birtley B
+ 2, [18/09/2025] Mallard A(3) v Birtley A(1) @ Mallard A
+ 2, [18/09/2025] Swan(5) v Leam Club(12) @ Swan
+ 2, [18/09/2025] Plough B(7) v Brandling B(10) @ Plough B
+ 2, [18/09/2025] Travellers Rest A(9) v Coach & Horses A(8) @ Travellers Rest A
+ 2, [18/09/2025] Corporation Club(11) v Half Moon(6) @ Corporation Club
+ 3, [25/09/2025] Birtley A(1) v Pelaw Inn A(4) @ Birtley A
+ 3, [25/09/2025] Mallard A(3) v Swan(5) @ Mallard A
+ 3, [25/09/2025] Half Moon(6) v Birtley B(2) @ Half Moon
+ 3, [25/09/2025] Coach & Horses A(8) v Corporation Club(11) @ Coach & Horses A
+ 3, [25/09/2025] Brandling B(10) v Travellers Rest A(9) @ Brandling B
+ 3, [25/09/2025] Leam Club(12) v Plough B(7) @ Leam Club
+ 4, [02/10/2025] Birtley B(2) v Coach & Horses A(8) @ Birtley B
+ 4, [02/10/2025] Pelaw Inn A(4) v Half Moon(6) @ Pelaw Inn A
+ 4, [02/10/2025] Swan(5) v Birtley A(1) @ Swan
+ 4, [02/10/2025] Plough B(7) v Mallard A(3) @ Plough B
+ 4, [02/10/2025] Travellers Rest A(9) v Leam Club(12) @ Travellers Rest A
+ 4, [02/10/2025] Corporation Club(11) v Brandling B(10) @ Corporation Club
+ 5, [09/10/2025] Birtley A(1) v Half Moon(6) @ Birtley A
+ 5, [09/10/2025] Mallard A(3) v Travellers Rest A(9) @ Mallard A
+ 5, [09/10/2025] Swan(5) v Plough B(7) @ Swan
+ 5, [09/10/2025] Coach & Horses A(8) v Pelaw Inn A(4) @ Coach & Horses A
+ 5, [09/10/2025] Brandling B(10) v Birtley B(2) @ Brandling B
+ 5, [09/10/2025] Leam Club(12) v Corporation Club(11) @ Leam Club
+ 6, [23/10/2025] Birtley B(2) v Leam Club(12) @ Birtley B
+ 6, [23/10/2025] Pelaw Inn A(4) v Brandling B(10) @ Pelaw Inn A
+ 6, [23/10/2025] Half Moon(6) v Coach & Horses A(8) @ Half Moon
+ 6, [23/10/2025] Plough B(7) v Birtley A(1) @ Plough B
+ 6, [23/10/2025] Travellers Rest A(9) v Swan(5) @ Travellers Rest A
+ 6, [23/10/2025] Corporation Club(11) v Mallard A(3) @ Corporation Club
+ 7, [30/10/2025] Birtley A(1) v Coach & Horses A(8) @ Birtley A
+ 7, [30/10/2025] Mallard A(3) v Birtley B(2) @ Mallard A
+ 7, [30/10/2025] Swan(5) v Corporation Club(11) @ Swan
+ 7, [30/10/2025] Plough B(7) v Travellers Rest A(9) @ Plough B
+ 7, [30/10/2025] Brandling B(10) v Half Moon(6) @ Brandling B
+ 7, [30/10/2025] Leam Club(12) v Pelaw Inn A(4) @ Leam Club
+ 8, [13/11/2025] Birtley B(2) v Swan(5) @ Birtley B
+ 8, [13/11/2025] Pelaw Inn A(4) v Mallard A(3) @ Pelaw Inn A
+ 8, [13/11/2025] Half Moon(6) v Leam Club(12) @ Half Moon
+ 8, [13/11/2025] Coach & Horses A(8) v Brandling B(10) @ Coach & Horses A
+ 8, [13/11/2025] Travellers Rest A(9) v Birtley A(1) @ Travellers Rest A
+ 8, [13/11/2025] Corporation Club(11) v Plough B(7) @ Corporation Club
+ 9, [20/11/2025] Birtley A(1) v Brandling B(10) @ Birtley A
+ 9, [20/11/2025] Mallard A(3) v Half Moon(6) @ Mallard A
+ 9, [20/11/2025] Swan(5) v Pelaw Inn A(4) @ Swan
+ 9, [20/11/2025] Plough B(7) v Birtley B(2) @ Plough B
+ 9, [20/11/2025] Travellers Rest A(9) v Corporation Club(11) @ Travellers Rest A
+ 9, [20/11/2025] Leam Club(12) v Coach & Horses A(8) @ Leam Club
+10, [04/12/2025] Birtley B(2) v Travellers Rest A(9) @ Birtley B
+10, [04/12/2025] Pelaw Inn A(4) v Plough B(7) @ Pelaw Inn A
+10, [04/12/2025] Half Moon(6) v Swan(5) @ Half Moon
+10, [04/12/2025] Coach & Horses A(8) v Mallard A(3) @ Coach & Horses A
+10, [04/12/2025] Brandling B(10) v Leam Club(12) @ Brandling B
+10, [04/12/2025] Corporation Club(11) v Birtley A(1) @ Corporation Club
+11, [11/12/2025] Birtley A(1) v Leam Club(12) @ Birtley A
+11, [11/12/2025] Mallard A(3) v Brandling B(10) @ Mallard A
+11, [11/12/2025] Swan(5) v Coach & Horses A(8) @ Swan
+11, [11/12/2025] Plough B(7) v Half Moon(6) @ Plough B
+11, [11/12/2025] Travellers Rest A(9) v Pelaw Inn A(4) @ Travellers Rest A
+11, [11/12/2025] Corporation Club(11) v Birtley B(2) @ Corporation Club
+12, [08/01/2026] Birtley B(2) v Birtley A(1) @ Birtley B
+12, [08/01/2026] Mallard A(3) v Leam Club(12) @ Mallard A
+12, [08/01/2026] Swan(5) v Brandling B(10) @ Swan
+12, [08/01/2026] Plough B(7) v Coach & Horses A(8) @ Plough B
+12, [08/01/2026] Travellers Rest A(9) v Half Moon(6) @ Travellers Rest A
+12, [08/01/2026] Corporation Club(11) v Pelaw Inn A(4) @ Corporation Club
+13, [15/01/2026] Birtley A(1) v Mallard A(3) @ Birtley A
+13, [15/01/2026] Pelaw Inn A(4) v Birtley B(2) @ Pelaw Inn A
+13, [15/01/2026] Half Moon(6) v Corporation Club(11) @ Half Moon
+13, [15/01/2026] Coach & Horses A(8) v Travellers Rest A(9) @ Coach & Horses A
+13, [15/01/2026] Brandling B(10) v Plough B(7) @ Brandling B
+13, [15/01/2026] Leam Club(12) v Swan(5) @ Leam Club
+14, [29/01/2026] Birtley B(2) v Half Moon(6) @ Birtley B
+14, [29/01/2026] Pelaw Inn A(4) v Birtley A(1) @ Pelaw Inn A
+14, [29/01/2026] Swan(5) v Mallard A(3) @ Swan
+14, [29/01/2026] Plough B(7) v Leam Club(12) @ Plough B
+14, [29/01/2026] Travellers Rest A(9) v Brandling B(10) @ Travellers Rest A
+14, [29/01/2026] Corporation Club(11) v Coach & Horses A(8) @ Corporation Club
+15, [05/02/2026] Birtley A(1) v Swan(5) @ Birtley A
+15, [05/02/2026] Mallard A(3) v Plough B(7) @ Mallard A
+15, [05/02/2026] Half Moon(6) v Pelaw Inn A(4) @ Half Moon
+15, [05/02/2026] Coach & Horses A(8) v Birtley B(2) @ Coach & Horses A
+15, [05/02/2026] Brandling B(10) v Corporation Club(11) @ Brandling B
+15, [05/02/2026] Leam Club(12) v Travellers Rest A(9) @ Leam Club
+16, [19/02/2026] Birtley B(2) v Brandling B(10) @ Birtley B
+16, [19/02/2026] Pelaw Inn A(4) v Coach & Horses A(8) @ Pelaw Inn A
+16, [19/02/2026] Half Moon(6) v Birtley A(1) @ Half Moon
+16, [19/02/2026] Plough B(7) v Swan(5) @ Plough B
+16, [19/02/2026] Travellers Rest A(9) v Mallard A(3) @ Travellers Rest A
+16, [19/02/2026] Corporation Club(11) v Leam Club(12) @ Corporation Club
+17, [26/02/2026] Birtley A(1) v Plough B(7) @ Birtley A
+17, [26/02/2026] Mallard A(3) v Corporation Club(11) @ Mallard A
+17, [26/02/2026] Swan(5) v Travellers Rest A(9) @ Swan
+17, [26/02/2026] Coach & Horses A(8) v Half Moon(6) @ Coach & Horses A
+17, [26/02/2026] Brandling B(10) v Pelaw Inn A(4) @ Brandling B
+17, [26/02/2026] Leam Club(12) v Birtley B(2) @ Leam Club
+18, [12/03/2026] Birtley B(2) v Mallard A(3) @ Birtley B
+18, [12/03/2026] Pelaw Inn A(4) v Leam Club(12) @ Pelaw Inn A
+18, [12/03/2026] Half Moon(6) v Brandling B(10) @ Half Moon
+18, [12/03/2026] Coach & Horses A(8) v Birtley A(1) @ Coach & Horses A
+18, [12/03/2026] Travellers Rest A(9) v Plough B(7) @ Travellers Rest A
+18, [12/03/2026] Corporation Club(11) v Swan(5) @ Corporation Club
+19, [19/03/2026] Birtley A(1) v Travellers Rest A(9) @ Birtley A
+19, [19/03/2026] Mallard A(3) v Pelaw Inn A(4) @ Mallard A
+19, [19/03/2026] Swan(5) v Birtley B(2) @ Swan
+19, [19/03/2026] Plough B(7) v Corporation Club(11) @ Plough B
+19, [19/03/2026] Brandling B(10) v Coach & Horses A(8) @ Brandling B
+19, [19/03/2026] Leam Club(12) v Half Moon(6) @ Leam Club
+20, [02/04/2026] Birtley B(2) v Plough B(7) @ Birtley B
+20, [02/04/2026] Pelaw Inn A(4) v Swan(5) @ Pelaw Inn A
+20, [02/04/2026] Half Moon(6) v Mallard A(3) @ Half Moon
+20, [02/04/2026] Coach & Horses A(8) v Leam Club(12) @ Coach & Horses A
+20, [02/04/2026] Brandling B(10) v Birtley A(1) @ Brandling B
+20, [02/04/2026] Corporation Club(11) v Travellers Rest A(9) @ Corporation Club
+21, [09/04/2026] Birtley A(1) v Corporation Club(11) @ Birtley A
+21, [09/04/2026] Mallard A(3) v Coach & Horses A(8) @ Mallard A
+21, [09/04/2026] Swan(5) v Half Moon(6) @ Swan
+21, [09/04/2026] Plough B(7) v Pelaw Inn A(4) @ Plough B
+21, [09/04/2026] Travellers Rest A(9) v Birtley B(2) @ Travellers Rest A
+21, [09/04/2026] Leam Club(12) v Brandling B(10) @ Leam Club
+22, [23/04/2026] Birtley B(2) v Corporation Club(11) @ Birtley B
+22, [23/04/2026] Pelaw Inn A(4) v Travellers Rest A(9) @ Pelaw Inn A
+22, [23/04/2026] Half Moon(6) v Plough B(7) @ Half Moon
+22, [23/04/2026] Coach & Horses A(8) v Swan(5) @ Coach & Horses A
+22, [23/04/2026] Brandling B(10) v Mallard A(3) @ Brandling B
+22, [23/04/2026] Leam Club(12) v Birtley A(1) @ Leam Club
+23, [30/04/2026] Birtley A(1) v Birtley B(2) @ Birtley A
+23, [30/04/2026] Pelaw Inn A(4) v Corporation Club(11) @ Pelaw Inn A
+23, [30/04/2026] Half Moon(6) v Travellers Rest A(9) @ Half Moon
+23, [30/04/2026] Coach & Horses A(8) v Plough B(7) @ Coach & Horses A
+23, [30/04/2026] Brandling B(10) v Swan(5) @ Brandling B
+23, [30/04/2026] Leam Club(12) v Mallard A(3) @ Leam Club
+24, [14/05/2026] Birtley B(2) v Pelaw Inn A(4) @ Birtley B
+24, [14/05/2026] Mallard A(3) v Birtley A(1) @ Mallard A
+24, [14/05/2026] Swan(5) v Leam Club(12) @ Swan
+24, [14/05/2026] Plough B(7) v Brandling B(10) @ Plough B
+24, [14/05/2026] Travellers Rest A(9) v Coach & Horses A(8) @ Travellers Rest A
+24, [14/05/2026] Corporation Club(11) v Half Moon(6) @ Corporation Club
+25, [21/05/2026] Birtley A(1) v Pelaw Inn A(4) @ Birtley A
+25, [21/05/2026] Mallard A(3) v Swan(5) @ Mallard A
+25, [21/05/2026] Half Moon(6) v Birtley B(2) @ Half Moon
+25, [21/05/2026] Coach & Horses A(8) v Corporation Club(11) @ Coach & Horses A
+25, [21/05/2026] Brandling B(10) v Travellers Rest A(9) @ Brandling B
+25, [21/05/2026] Leam Club(12) v Plough B(7) @ Leam Club
+26, [28/05/2026] Birtley B(2) v Coach & Horses A(8) @ Birtley B
+26, [28/05/2026] Pelaw Inn A(4) v Half Moon(6) @ Pelaw Inn A
+26, [28/05/2026] Swan(5) v Birtley A(1) @ Swan
+26, [28/05/2026] Plough B(7) v Mallard A(3) @ Plough B
+26, [28/05/2026] Travellers Rest A(9) v Leam Club(12) @ Travellers Rest A
+26, [28/05/2026] Corporation Club(11) v Brandling B(10) @ Corporation Club
+27, [04/06/2026] Birtley A(1) v Half Moon(6) @ Birtley A
+27, [04/06/2026] Mallard A(3) v Travellers Rest A(9) @ Mallard A
+27, [04/06/2026] Swan(5) v Plough B(7) @ Swan
+27, [04/06/2026] Coach & Horses A(8) v Pelaw Inn A(4) @ Coach & Horses A
+27, [04/06/2026] Brandling B(10) v Birtley B(2) @ Brandling B
+27, [04/06/2026] Leam Club(12) v Corporation Club(11) @ Leam Club
+28, [11/06/2026] Birtley B(2) v Leam Club(12) @ Birtley B
+28, [11/06/2026] Pelaw Inn A(4) v Brandling B(10) @ Pelaw Inn A
+28, [11/06/2026] Half Moon(6) v Coach & Horses A(8) @ Half Moon
+28, [11/06/2026] Plough B(7) v Birtley A(1) @ Plough B
+28, [11/06/2026] Travellers Rest A(9) v Swan(5) @ Travellers Rest A
+28, [11/06/2026] Corporation Club(11) v Mallard A(3) @ Corporation Club
+29, [18/06/2026] Birtley A(1) v Coach & Horses A(8) @ Birtley A
+29, [18/06/2026] Mallard A(3) v Birtley B(2) @ Mallard A
+29, [18/06/2026] Swan(5) v Corporation Club(11) @ Swan
+29, [18/06/2026] Plough B(7) v Travellers Rest A(9) @ Plough B
+29, [18/06/2026] Brandling B(10) v Half Moon(6) @ Brandling B
+29, [18/06/2026] Leam Club(12) v Pelaw Inn A(4) @ Leam Club
+30, [25/06/2026] Birtley B(2) v Swan(5) @ Birtley B
+30, [25/06/2026] Pelaw Inn A(4) v Mallard A(3) @ Pelaw Inn A
+30, [25/06/2026] Half Moon(6) v Leam Club(12) @ Half Moon
+30, [25/06/2026] Coach & Horses A(8) v Brandling B(10) @ Coach & Horses A
+30, [25/06/2026] Travellers Rest A(9) v Birtley A(1) @ Travellers Rest A
+30, [25/06/2026] Corporation Club(11) v Plough B(7) @ Corporation Club
+31, [02/07/2026] Birtley A(1) v Brandling B(10) @ Birtley A
+31, [02/07/2026] Mallard A(3) v Half Moon(6) @ Mallard A
+31, [02/07/2026] Swan(5) v Pelaw Inn A(4) @ Swan
+31, [02/07/2026] Plough B(7) v Birtley B(2) @ Plough B
+31, [02/07/2026] Travellers Rest A(9) v Corporation Club(11) @ Travellers Rest A
+31, [02/07/2026] Leam Club(12) v Coach & Horses A(8) @ Leam Club
+32, [09/07/2026] Birtley B(2) v Travellers Rest A(9) @ Birtley B
+32, [09/07/2026] Pelaw Inn A(4) v Plough B(7) @ Pelaw Inn A
+32, [09/07/2026] Half Moon(6) v Swan(5) @ Half Moon
+32, [09/07/2026] Coach & Horses A(8) v Mallard A(3) @ Coach & Horses A
+32, [09/07/2026] Brandling B(10) v Leam Club(12) @ Brandling B
+32, [09/07/2026] Corporation Club(11) v Birtley A(1) @ Corporation Club
+33, [16/07/2026] Birtley A(1) v Leam Club(12) @ Birtley A
+33, [16/07/2026] Mallard A(3) v Brandling B(10) @ Mallard A
+33, [16/07/2026] Swan(5) v Coach & Horses A(8) @ Swan
+33, [16/07/2026] Plough B(7) v Half Moon(6) @ Plough B
+33, [16/07/2026] Travellers Rest A(9) v Pelaw Inn A(4) @ Travellers Rest A
+33, [16/07/2026] Corporation Club(11) v Birtley B(2) @ Corporation Club
