@@ -1,0 +1,57 @@
+13:Birtley A%BRTA
+14:Birtley B%BRTB
+6:Brandling B%MALB
+11:Corporation Club A%COR
+12:Corporation Club B%CAN
+3:Fitzgerald's A%SKYC
+5:Gardeners Club%9P
+7:Half Moon%HM
+8:Mallard%MALA
+9:Pelaw A%PEL
+10:Pelaw B%BRNB
+4:Plough B%PLOC
+2:Travellers Rest A%TR
+1:Travellers Rest B%TBH
+
+#5:Brandling A%BRNA
+#9:Coach & Horses A%CAHA
+#10:Coach & Horses B%CAHB
+#11:Dun Cow%DC
+#12:Eagle%EAG
+#4:Fitzgerald's B%FTGB
+#1:Guide Post A%GUDP
+#2:Guide Post B%GUDB
+#13:Holly Hill%HH
+#14:Nag's Head%NGH
+#3:Plough A%PLOAn
+#6:Saltwell Club%STL
+#7:Speculation%SPEC
+#8:Three Tuns%3T
+
+
+Week1:03/09/2026
+Week2:10/09/2026
+Week3:17/09/2026
+Week4:24/09/2026
+Week5:08/10/2026
+Week6:15/10/2026
+Week7:29/10/2026
+Week8:05/11/2026
+Week9:19/11/2026
+Week10:03/12/2026
+Week11:10/12/2026
+Week12:07/01/2027
+Week13:21/01/2027
+Week14:28/01/2027
+Week15:11/02/2027
+Week16:04/03/2027
+Week17:11/03/2027
+Week18:25/03/2027
+Week19:08/04/2027
+Week20:22/04/2027
+Week21:06/05/2027
+Week22:13/05/2027
+Week23:27/05/2027
+Week24:10/06/2027
+Week25:24/06/2027
+Week26:01/07/2027

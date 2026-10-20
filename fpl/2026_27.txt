@@ -1,0 +1,51 @@
+#Division:D1
+# Time: <time for matches, default 20:00>
+
+# 1/2 Week 1, Trav
+# 7/8 Week 1, Leam
+# 9/10 Week 3, Coach
+# 11/12 Week 5, Royal
+
+
+1:Travellers%TRA
+2:Travellers B%TRB
+3:Brandling A%BRN
+4:Brandling B%BRNB
+5:Corpy Club%RYLA
+6:Mallard%MAL
+7:Royal B%RYLB
+8:Stormont Main%STM
+9:Coach & Horses A%CAHA
+10:Coach & Horses B%CAHB
+11:Leam Club A%LEA
+12:Leam Club B%LEB
+13:Plough A%PLO
+14:Plough B%PLOU
+
+
+Week1:30/09/2026
+Week2:07/10/2026
+Week3:14/10/2026
+Week4:21/10/2026
+Week5:04/11/2026
+Week6:11/11/2026
+Week7:18/11/2026
+Week8:02/12/2026
+Week9:09/12/2026
+Week10:06/01/2027
+Week11:13/01/2027
+Week12:27/01/2027
+Week13:03/02/2027
+Week14:17/02/2027
+Week15:03/03/2027
+Week16:10/03/2027
+Week17:17/03/2027
+Week18:31/03/2027
+Week19:07/04/2027
+Week20:21/04/2027
+Week21:28/04/2027
+Week22:05/05/2027
+Week23:19/05/2027
+Week24:26/05/2027
+Week25:02/06/2027
+week26:16/06/2027
